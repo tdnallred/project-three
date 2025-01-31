@@ -8,10 +8,14 @@ const pokemonArray = pokemon.results
 const App = () => {
   return (
     <div className="App">
-      <img className="pokemonHeader" src="src/Assets/pokemon.png" alt="" />
-      {/* <Selection className="selection" pokemon={pokemonArray} /> */}
+      <div className="top">
+        <img className="pokemonHeader" src="src/Assets/pokemon.png" alt="" />
+      </div>
+      <div className="main">
+        <MainPane pokemon={pokemonArray} />
+      </div>
 
-      <MainPane pokemon={pokemonArray} />
+      {/* <Selection className="selection" pokemon={pokemonArray} /> */}
     </div>
   )
 }

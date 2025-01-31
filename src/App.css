@@ -1,11 +1,18 @@
 body {
-  margin: 0;
   box-sizing: border-box;
   background-color: white;
 }
 
+.top {
+  width: 90vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px 0 30px 0;
+}
+
 .pokemonHeader {
-  width: 25vw;
+  width: 15vw;
   height: auto;
 }
 
@@ -20,8 +27,14 @@ img.character {
   width: 50vw;
   height: 80vh;
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   overflow-y: auto;
+  background-color: rgb(205, 205, 205);
+  border-radius: 6px;
+  border: 2px solid grey;
+}
+.pokemonGrid::-webkit-scrollbar {
+  display: none;
 }
 
 .pokeNum,
@@ -35,6 +48,10 @@ img.character {
   margin: 8px;
   padding: 8px;
   border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
 }
 
 /* other */
