@@ -18,6 +18,11 @@ body {
 
 /* main pane */
 
+.body {
+  display: flex;
+  width: 100vw;
+}
+
 img.character {
   height: 60px;
   width: 60px;
@@ -35,6 +40,10 @@ img.character {
 }
 .pokemonGrid::-webkit-scrollbar {
   display: none;
+}
+
+.pokemon-details {
+  width: 50vw;
 }
 
 .pokeNum,
