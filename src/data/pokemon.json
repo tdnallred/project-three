@@ -1728,6 +1728,881 @@
       },
       "description": "Cloyster is the evolved form of Shellder. It has a spiky shell and can shoot spikes at its enemies.",
       "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png"
+    },
+    {
+      "name": "Gastly",
+      "vitals": {
+        "pokedex": "92",
+        "type": "Ghost & Poison",
+        "classification": "Gas Pokémon",
+        "ability": "Levitate: Grants immunity to Ground-type moves."
+      },
+      "basedStats": {
+        "hp": "30",
+        "attack": "35",
+        "defense": "30",
+        "specialAtk": "100",
+        "specialDef": "35",
+        "speed": "80"
+      },
+      "description": "Gastly is a ghost-like Pokémon made of gas. It is known for its ability to vanish into thin air.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png"
+    },
+    {
+      "name": "Haunter",
+      "vitals": {
+        "pokedex": "93",
+        "type": "Ghost & Poison",
+        "classification": "Gas Pokémon",
+        "ability": "Levitate: Grants immunity to Ground-type moves."
+      },
+      "basedStats": {
+        "hp": "45",
+        "attack": "50",
+        "defense": "45",
+        "specialAtk": "115",
+        "specialDef": "55",
+        "speed": "95"
+      },
+      "description": "Haunter is the evolved form of Gastly. It is a more powerful ghost Pokémon that enjoys scaring people.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png"
+    },
+    {
+      "name": "Gengar",
+      "vitals": {
+        "pokedex": "94",
+        "type": "Ghost & Poison",
+        "classification": "Shadow Pokémon",
+        "ability": "Cursed Body: May disable a move used on the Pokémon."
+      },
+      "basedStats": {
+        "hp": "60",
+        "attack": "65",
+        "defense": "60",
+        "specialAtk": "130",
+        "specialDef": "75",
+        "speed": "110"
+      },
+      "description": "Gengar is the final evolution of Gastly. It is a powerful ghost Pokémon that lurks in the shadows.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png"
+    },
+    {
+      "name": "Onix",
+      "vitals": {
+        "pokedex": "95",
+        "type": "Rock & Ground",
+        "classification": "Rock Snake Pokémon",
+        "ability": "Rock Head: Prevents recoil damage from moves."
+      },
+      "basedStats": {
+        "hp": "35",
+        "attack": "45",
+        "defense": "160",
+        "specialAtk": "30",
+        "specialDef": "45",
+        "speed": "70"
+      },
+      "description": "Onix is a massive, snake-like Pokémon made of rock. It is known for its incredible defense.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png"
+    },
+    {
+      "name": "Drowzee",
+      "vitals": {
+        "pokedex": "96",
+        "type": "Psychic",
+        "classification": "Hypnosis Pokémon",
+        "ability": "Insomnia: Prevents the Pokémon from falling asleep."
+      },
+      "basedStats": {
+        "hp": "60",
+        "attack": "48",
+        "defense": "45",
+        "specialAtk": "43",
+        "specialDef": "90",
+        "speed": "42"
+      },
+      "description": "Drowzee is a psychic Pokémon that feeds on dreams. It is known for its hypnotic abilities.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png"
+    },
+    {
+      "name": "Hypno",
+      "vitals": {
+        "pokedex": "97",
+        "type": "Psychic",
+        "classification": "Hypnosis Pokémon",
+        "ability": "Insomnia: Prevents the Pokémon from falling asleep."
+      },
+      "basedStats": {
+        "hp": "85",
+        "attack": "73",
+        "defense": "70",
+        "specialAtk": "73",
+        "specialDef": "115",
+        "speed": "67"
+      },
+      "description": "Hypno is the evolved form of Drowzee. It is a powerful psychic Pokémon that uses a pendulum to hypnotize its foes.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png"
+    },
+    {
+      "name": "Krabby",
+      "vitals": {
+        "pokedex": "98",
+        "type": "Water",
+        "classification": "River Crab Pokémon",
+        "ability": "Hyper Cutter: Prevents the Pokémon's Attack from being lowered."
+      },
+      "basedStats": {
+        "hp": "30",
+        "attack": "105",
+        "defense": "90",
+        "specialAtk": "25",
+        "specialDef": "25",
+        "speed": "50"
+      },
+      "description": "Krabby is a small, crab-like Pokémon that lives near water. It is known for its powerful pincers.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png"
+    },
+    {
+      "name": "Kingler",
+      "vitals": {
+        "pokedex": "99",
+        "type": "Water",
+        "classification": "Pincer Pokémon",
+        "ability": "Hyper Cutter: Prevents the Pokémon's Attack from being lowered."
+      },
+      "basedStats": {
+        "hp": "55",
+        "attack": "130",
+        "defense": "115",
+        "specialAtk": "50",
+        "specialDef": "50",
+        "speed": "75"
+      },
+      "description": "Kingler is the evolved form of Krabby. It has a massive pincer that can crush anything in its grip.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png"
+    },
+    {
+      "name": "Voltorb",
+      "vitals": {
+        "pokedex": "100",
+        "type": "Electric",
+        "classification": "Ball Pokémon",
+        "ability": "Soundproof: Grants immunity to sound-based moves."
+      },
+      "basedStats": {
+        "hp": "40",
+        "attack": "30",
+        "defense": "50",
+        "specialAtk": "55",
+        "specialDef": "55",
+        "speed": "100"
+      },
+      "description": "Voltorb is a spherical Pokémon that resembles a Poké Ball. It is known for its explosive nature.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png"
+    },
+    {
+      "name": "Electrode",
+      "vitals": {
+        "pokedex": "101",
+        "type": "Electric",
+        "classification": "Ball Pokémon",
+        "ability": "Soundproof: Grants immunity to sound-based moves."
+      },
+      "basedStats": {
+        "hp": "60",
+        "attack": "50",
+        "defense": "70",
+        "specialAtk": "80",
+        "specialDef": "80",
+        "speed": "150"
+      },
+      "description": "Electrode is the evolved form of Voltorb. It is faster and more explosive, often self-destructing without warning.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png"
+    },
+    {
+      "name": "Exeggcute",
+      "vitals": {
+        "pokedex": "102",
+        "type": "Grass & Psychic",
+        "classification": "Egg Pokémon",
+        "ability": "Chlorophyll: Increases Speed during strong sunlight."
+      },
+      "basedStats": {
+        "hp": "60",
+        "attack": "40",
+        "defense": "80",
+        "specialAtk": "60",
+        "specialDef": "45",
+        "speed": "40"
+      },
+      "description": "Exeggcute is a cluster of egg-like Pokémon. It is known for its psychic abilities and strong defense.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png"
+    },
+    {
+      "name": "Exeggutor",
+      "vitals": {
+        "pokedex": "103",
+        "type": "Grass & Psychic",
+        "classification": "Coconut Pokémon",
+        "ability": "Chlorophyll: Increases Speed during strong sunlight."
+      },
+      "basedStats": {
+        "hp": "95",
+        "attack": "95",
+        "defense": "85",
+        "specialAtk": "125",
+        "specialDef": "75",
+        "speed": "55"
+      },
+      "description": "Exeggutor is the evolved form of Exeggcute. It is a tall, tree-like Pokémon with multiple heads.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png"
+    },
+    {
+      "name": "Cubone",
+      "vitals": {
+        "pokedex": "104",
+        "type": "Ground",
+        "classification": "Lonely Pokémon",
+        "ability": "Rock Head: Prevents recoil damage from moves."
+      },
+      "basedStats": {
+        "hp": "50",
+        "attack": "50",
+        "defense": "95",
+        "specialAtk": "40",
+        "specialDef": "50",
+        "speed": "35"
+      },
+      "description": "Cubone is a small, ground-dwelling Pokémon that wears the skull of its deceased mother.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png"
+    },
+    {
+      "name": "Marowak",
+      "vitals": {
+        "pokedex": "105",
+        "type": "Ground",
+        "classification": "Bone Keeper Pokémon",
+        "ability": "Rock Head: Prevents recoil damage from moves."
+      },
+      "basedStats": {
+        "hp": "60",
+        "attack": "80",
+        "defense": "110",
+        "specialAtk": "50",
+        "specialDef": "80",
+        "speed": "45"
+      },
+      "description": "Marowak is the evolved form of Cubone. It is a powerful Pokémon that uses bones as weapons.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png"
+    },
+    {
+      "name": "Hitmonlee",
+      "vitals": {
+        "pokedex": "106",
+        "type": "Fighting",
+        "classification": "Kicking Pokémon",
+        "ability": "Limber: Prevents the Pokémon from being paralyzed."
+      },
+      "basedStats": {
+        "hp": "50",
+        "attack": "120",
+        "defense": "53",
+        "specialAtk": "35",
+        "specialDef": "110",
+        "speed": "87"
+      },
+      "description": "Hitmonlee is a humanoid Pokémon known for its powerful kicks. It is highly agile and flexible.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png"
+    },
+    {
+      "name": "Hitmonchan",
+      "vitals": {
+        "pokedex": "107",
+        "type": "Fighting",
+        "classification": "Punching Pokémon",
+        "ability": "Keen Eye: Prevents the Pokémon from losing accuracy."
+      },
+      "basedStats": {
+        "hp": "50",
+        "attack": "105",
+        "defense": "79",
+        "specialAtk": "35",
+        "specialDef": "110",
+        "speed": "76"
+      },
+      "description": "Hitmonchan is a humanoid Pokémon known for its powerful punches. It wears boxing gloves for protection.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png"
+    },
+    {
+      "name": "Lickitung",
+      "vitals": {
+        "pokedex": "108",
+        "type": "Normal",
+        "classification": "Licking Pokémon",
+        "ability": "Own Tempo: Prevents the Pokémon from becoming confused."
+      },
+      "basedStats": {
+        "hp": "90",
+        "attack": "55",
+        "defense": "75",
+        "specialAtk": "60",
+        "specialDef": "75",
+        "speed": "30"
+      },
+      "description": "Lickitung is a large, tongue-like Pokémon that uses its long tongue to capture prey.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png"
+    },
+    {
+      "name": "Koffing",
+      "vitals": {
+        "pokedex": "109",
+        "type": "Poison",
+        "classification": "Poison Gas Pokémon",
+        "ability": "Levitate: Grants immunity to Ground-type moves."
+      },
+      "basedStats": {
+        "hp": "40",
+        "attack": "65",
+        "defense": "95",
+        "specialAtk": "60",
+        "specialDef": "45",
+        "speed": "35"
+      },
+      "description": "Koffing is a spherical Pokémon that emits toxic gases. It is often found in polluted areas.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png"
+    },
+    {
+      "name": "Weezing",
+      "vitals": {
+        "pokedex": "110",
+        "type": "Poison",
+        "classification": "Poison Gas Pokémon",
+        "ability": "Levitate: Grants immunity to Ground-type moves."
+      },
+      "basedStats": {
+        "hp": "65",
+        "attack": "90",
+        "defense": "120",
+        "specialAtk": "85",
+        "specialDef": "70",
+        "speed": "60"
+      },
+      "description": "Weezing is the evolved form of Koffing. It consists of two Koffing fused together, emitting even more toxic gases.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png"
+    },
+    {
+      "name": "Rhyhorn",
+      "vitals": {
+        "pokedex": "111",
+        "type": "Ground & Rock",
+        "classification": "Spikes Pokémon",
+        "ability": "Lightning Rod: Draws in all Electric-type moves to boost Special Attack."
+      },
+      "basedStats": {
+        "hp": "80",
+        "attack": "85",
+        "defense": "95",
+        "specialAtk": "30",
+        "specialDef": "30",
+        "speed": "25"
+      },
+      "description": "Rhyhorn is a rhinoceros-like Pokémon with a tough, rocky hide. It is known for its charging attacks.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png"
+    },
+    {
+      "name": "Rhydon",
+      "vitals": {
+        "pokedex": "112",
+        "type": "Ground & Rock",
+        "classification": "Drill Pokémon",
+        "ability": "Lightning Rod: Draws in all Electric-type moves to boost Special Attack."
+      },
+      "basedStats": {
+        "hp": "105",
+        "attack": "130",
+        "defense": "120",
+        "specialAtk": "45",
+        "specialDef": "45",
+        "speed": "40"
+      },
+      "description": "Rhydon is the evolved form of Rhyhorn. It is a powerful Pokémon with a drill-like horn.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png"
+    },
+    {
+      "name": "Chansey",
+      "vitals": {
+        "pokedex": "113",
+        "type": "Normal",
+        "classification": "Egg Pokémon",
+        "ability": "Natural Cure: Heals status conditions when switched out."
+      },
+      "basedStats": {
+        "hp": "250",
+        "attack": "5",
+        "defense": "5",
+        "specialAtk": "35",
+        "specialDef": "105",
+        "speed": "50"
+      },
+      "description": "Chansey is a kind-hearted Pokémon that carries an egg. It is known for its healing abilities.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png"
+    },
+    {
+      "name": "Tangela",
+      "vitals": {
+        "pokedex": "114",
+        "type": "Grass",
+        "classification": "Vine Pokémon",
+        "ability": "Chlorophyll: Increases Speed during strong sunlight."
+      },
+      "basedStats": {
+        "hp": "65",
+        "attack": "55",
+        "defense": "115",
+        "specialAtk": "100",
+        "specialDef": "40",
+        "speed": "60"
+      },
+      "description": "Tangela is a vine-covered Pokémon that hides its face. It uses its vines to capture prey.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png"
+    },
+
+    {
+      "name": "Kangaskhan",
+      "vitals": {
+        "pokedex": "115",
+        "type": "Normal",
+        "classification": "Parent Pokémon",
+        "ability": "Early Bird: Reduces the duration of sleep."
+      },
+      "basedStats": {
+        "hp": "105",
+        "attack": "95",
+        "defense": "80",
+        "specialAtk": "40",
+        "specialDef": "80",
+        "speed": "90"
+      },
+      "description": "Kangaskhan is a large, kangaroo-like Pokémon that carries its young in a pouch. It is fiercely protective of its baby.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png"
+    },
+    {
+      "name": "Horsea",
+      "vitals": {
+        "pokedex": "116",
+        "type": "Water",
+        "classification": "Dragon Pokémon",
+        "ability": "Swift Swim: Increases Speed during rain."
+      },
+      "basedStats": {
+        "hp": "30",
+        "attack": "40",
+        "defense": "70",
+        "specialAtk": "70",
+        "specialDef": "25",
+        "speed": "60"
+      },
+      "description": "Horsea is a small, seahorse-like Pokémon that lives in the ocean. It is known for its ability to shoot ink.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png"
+    },
+    {
+      "name": "Seadra",
+      "vitals": {
+        "pokedex": "117",
+        "type": "Water",
+        "classification": "Dragon Pokémon",
+        "ability": "Poison Point: May poison the opponent when hit by a physical move."
+      },
+      "basedStats": {
+        "hp": "55",
+        "attack": "65",
+        "defense": "95",
+        "specialAtk": "95",
+        "specialDef": "45",
+        "speed": "85"
+      },
+      "description": "Seadra is the evolved form of Horsea. It is a more powerful Pokémon with sharp spines on its body.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png"
+    },
+    {
+      "name": "Goldeen",
+      "vitals": {
+        "pokedex": "118",
+        "type": "Water",
+        "classification": "Goldfish Pokémon",
+        "ability": "Swift Swim: Increases Speed during rain."
+      },
+      "basedStats": {
+        "hp": "45",
+        "attack": "67",
+        "defense": "60",
+        "specialAtk": "35",
+        "specialDef": "50",
+        "speed": "63"
+      },
+      "description": "Goldeen is a fish-like Pokémon with a horn on its head. It is known for its graceful swimming.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png"
+    },
+    {
+      "name": "Seaking",
+      "vitals": {
+        "pokedex": "119",
+        "type": "Water",
+        "classification": "Goldfish Pokémon",
+        "ability": "Swift Swim: Increases Speed during rain."
+      },
+      "basedStats": {
+        "hp": "80",
+        "attack": "92",
+        "defense": "65",
+        "specialAtk": "65",
+        "specialDef": "80",
+        "speed": "68"
+      },
+      "description": "Seaking is the evolved form of Goldeen. It is a larger, more powerful Pokémon with a sharp horn.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png"
+    },
+    {
+      "name": "Staryu",
+      "vitals": {
+        "pokedex": "120",
+        "type": "Water",
+        "classification": "Star Shape Pokémon",
+        "ability": "Illuminate: Increases the chance of encountering wild Pokémon."
+      },
+      "basedStats": {
+        "hp": "30",
+        "attack": "45",
+        "defense": "55",
+        "specialAtk": "70",
+        "specialDef": "55",
+        "speed": "85"
+      },
+      "description": "Staryu is a starfish-like Pokémon that lives in the ocean. It can regenerate lost limbs.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png"
+    },
+    {
+      "name": "Starmie",
+      "vitals": {
+        "pokedex": "121",
+        "type": "Water & Psychic",
+        "classification": "Mysterious Pokémon",
+        "ability": "Illuminate: Increases the chance of encountering wild Pokémon."
+      },
+      "basedStats": {
+        "hp": "60",
+        "attack": "75",
+        "defense": "85",
+        "specialAtk": "100",
+        "specialDef": "85",
+        "speed": "115"
+      },
+      "description": "Starmie is the evolved form of Staryu. It is a powerful Pokémon with a gem at its core.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png"
+    },
+    {
+      "name": "Mr. Mime",
+      "vitals": {
+        "pokedex": "122",
+        "type": "Psychic & Fairy",
+        "classification": "Barrier Pokémon",
+        "ability": "Soundproof: Grants immunity to sound-based moves."
+      },
+      "basedStats": {
+        "hp": "40",
+        "attack": "45",
+        "defense": "65",
+        "specialAtk": "100",
+        "specialDef": "120",
+        "speed": "90"
+      },
+      "description": "Mr. Mime is a humanoid Pokémon that creates invisible walls. It is known for its mimicry skills.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png"
+    },
+    {
+      "name": "Scyther",
+      "vitals": {
+        "pokedex": "123",
+        "type": "Bug & Flying",
+        "classification": "Mantis Pokémon",
+        "ability": "Swarm: Increases the power of Bug-type moves when HP is low."
+      },
+      "basedStats": {
+        "hp": "70",
+        "attack": "110",
+        "defense": "80",
+        "specialAtk": "55",
+        "specialDef": "80",
+        "speed": "105"
+      },
+      "description": "Scyther is a mantis-like Pokémon with sharp scythes for arms. It is known for its speed and agility.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png"
+    },
+    {
+      "name": "Jynx",
+      "vitals": {
+        "pokedex": "124",
+        "type": "Ice & Psychic",
+        "classification": "Human Shape Pokémon",
+        "ability": "Oblivious: Prevents the Pokémon from being infatuated."
+      },
+      "basedStats": {
+        "hp": "65",
+        "attack": "50",
+        "defense": "35",
+        "specialAtk": "115",
+        "specialDef": "95",
+        "speed": "95"
+      },
+      "description": "Jynx is a humanoid Pokémon that resembles a woman. It is known for its icy breath and psychic powers.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png"
+    },
+    {
+      "name": "Electabuzz",
+      "vitals": {
+        "pokedex": "125",
+        "type": "Electric",
+        "classification": "Electric Pokémon",
+        "ability": "Static: May paralyze the opponent when hit by a physical move."
+      },
+      "basedStats": {
+        "hp": "65",
+        "attack": "83",
+        "defense": "57",
+        "specialAtk": "95",
+        "specialDef": "85",
+        "speed": "105"
+      },
+      "description": "Electabuzz is a humanoid Pokémon that generates electricity. It is known for its lightning-fast movements.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png"
+    },
+    {
+      "name": "Magmar",
+      "vitals": {
+        "pokedex": "126",
+        "type": "Fire",
+        "classification": "Spitfire Pokémon",
+        "ability": "Flame Body: May burn the opponent when hit by a physical move."
+      },
+      "basedStats": {
+        "hp": "65",
+        "attack": "95",
+        "defense": "57",
+        "specialAtk": "100",
+        "specialDef": "85",
+        "speed": "93"
+      },
+      "description": "Magmar is a humanoid Pokémon that breathes fire. It is known for its fiery temper.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png"
+    },
+    {
+      "name": "Pinsir",
+      "vitals": {
+        "pokedex": "127",
+        "type": "Bug",
+        "classification": "Stag Beetle Pokémon",
+        "ability": "Hyper Cutter: Prevents the Pokémon's Attack from being lowered."
+      },
+      "basedStats": {
+        "hp": "65",
+        "attack": "125",
+        "defense": "100",
+        "specialAtk": "55",
+        "specialDef": "70",
+        "speed": "85"
+      },
+      "description": "Pinsir is a beetle-like Pokémon with powerful pincers. It is known for its strength and aggression.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png"
+    },
+    {
+      "name": "Tauros",
+      "vitals": {
+        "pokedex": "128",
+        "type": "Normal",
+        "classification": "Wild Bull Pokémon",
+        "ability": "Intimidate: Lowers the opponent's Attack stat."
+      },
+      "basedStats": {
+        "hp": "75",
+        "attack": "100",
+        "defense": "95",
+        "specialAtk": "40",
+        "specialDef": "70",
+        "speed": "110"
+      },
+      "description": "Tauros is a bull-like Pokémon known for its fierce temper and powerful charge.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png"
+    },
+    {
+      "name": "Magikarp",
+      "vitals": {
+        "pokedex": "129",
+        "type": "Water",
+        "classification": "Fish Pokémon",
+        "ability": "Swift Swim: Increases Speed during rain."
+      },
+      "basedStats": {
+        "hp": "20",
+        "attack": "10",
+        "defense": "55",
+        "specialAtk": "15",
+        "specialDef": "20",
+        "speed": "80"
+      },
+      "description": "Magikarp is a weak, fish-like Pokémon that is often ridiculed. However, it has the potential to evolve into a powerful Gyarados.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png"
+    },
+    {
+      "name": "Gyarados",
+      "vitals": {
+        "pokedex": "130",
+        "type": "Water & Flying",
+        "classification": "Atrocious Pokémon",
+        "ability": "Intimidate: Lowers the opponent's Attack stat."
+      },
+      "basedStats": {
+        "hp": "95",
+        "attack": "125",
+        "defense": "79",
+        "specialAtk": "60",
+        "specialDef": "100",
+        "speed": "81"
+      },
+      "description": "Gyarados is the evolved form of Magikarp. It is a massive, dragon-like Pokémon known for its destructive power.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png"
+    },
+    {
+      "name": "Lapras",
+      "vitals": {
+        "pokedex": "131",
+        "type": "Water & Ice",
+        "classification": "Transport Pokémon",
+        "ability": "Water Absorb: Restores HP when hit by Water-type moves."
+      },
+      "basedStats": {
+        "hp": "130",
+        "attack": "85",
+        "defense": "80",
+        "specialAtk": "85",
+        "specialDef": "95",
+        "speed": "60"
+      },
+      "description": "Lapras is a large, gentle Pokémon that ferries people across water. It is known for its soothing songs.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png"
+    },
+    {
+      "name": "Ditto",
+      "vitals": {
+        "pokedex": "132",
+        "type": "Normal",
+        "classification": "Transform Pokémon",
+        "ability": "Limber: Prevents the Pokémon from being paralyzed."
+      },
+      "basedStats": {
+        "hp": "48",
+        "attack": "48",
+        "defense": "48",
+        "specialAtk": "48",
+        "specialDef": "48",
+        "speed": "48"
+      },
+      "description": "Ditto is a small, blob-like Pokémon that can transform into any other Pokémon. It is known for its adaptability.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png"
+    },
+    {
+      "name": "Eevee",
+      "vitals": {
+        "pokedex": "133",
+        "type": "Normal",
+        "classification": "Evolution Pokémon",
+        "ability": "Adaptability: Increases the power of moves of the same type as the Pokémon."
+      },
+      "basedStats": {
+        "hp": "55",
+        "attack": "55",
+        "defense": "50",
+        "specialAtk": "45",
+        "specialDef": "65",
+        "speed": "55"
+      },
+      "description": "Eevee is a small, fox-like Pokémon with the potential to evolve into many different forms. It is known for its adaptability.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
+    },
+    {
+      "name": "Vaporeon",
+      "vitals": {
+        "pokedex": "134",
+        "type": "Water",
+        "classification": "Bubble Jet Pokémon",
+        "ability": "Water Absorb: Restores HP when hit by Water-type moves."
+      },
+      "basedStats": {
+        "hp": "130",
+        "attack": "65",
+        "defense": "60",
+        "specialAtk": "110",
+        "specialDef": "95",
+        "speed": "65"
+      },
+      "description": "Vaporeon is one of Eevee's evolved forms. It is a water-type Pokémon known for its aquatic abilities.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png"
+    },
+    {
+      "name": "Jolteon",
+      "vitals": {
+        "pokedex": "135",
+        "type": "Electric",
+        "classification": "Lightning Pokémon",
+        "ability": "Volt Absorb: Restores HP when hit by Electric-type moves."
+      },
+      "basedStats": {
+        "hp": "65",
+        "attack": "65",
+        "defense": "60",
+        "specialAtk": "110",
+        "specialDef": "95",
+        "speed": "130"
+      },
+      "description": "Jolteon is one of Eevee's evolved forms. It is an electric-type Pokémon known for its speed and agility.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png"
+    },
+    {
+      "name": "Flareon",
+      "vitals": {
+        "pokedex": "136",
+        "type": "Fire",
+        "classification": "Flame Pokémon",
+        "ability": "Flash Fire: Powers up Fire-type moves when hit by a Fire move."
+      },
+      "basedStats": {
+        "hp": "65",
+        "attack": "130",
+        "defense": "60",
+        "specialAtk": "95",
+        "specialDef": "110",
+        "speed": "65"
+      },
+      "description": "Flareon is one of Eevee's evolved forms. It is a fire-type Pokémon known for its fiery fur.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png"
+    },
+    {
+      "name": "Porygon",
+      "vitals": {
+        "pokedex": "137",
+        "type": "Normal",
+        "classification": "Virtual Pokémon",
+        "ability": "Trace: Copies the opponent's ability."
+      },
+      "basedStats": {
+        "hp": "65",
+        "attack": "60",
+        "defense": "70",
+        "specialAtk": "85",
+        "specialDef": "75",
+        "speed": "40"
+      },
+      "description": "Porygon is a digital Pokémon created by humans. It is known for its ability to travel through cyberspace.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png"
     }
   ]
 }
