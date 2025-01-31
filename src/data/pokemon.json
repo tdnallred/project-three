@@ -5,7 +5,7 @@
       "vitals": {
         "pokedex": "1",
         "type": "Grass & Poison",
-        "classification": "Seed Pokemon",
+        "classification": "Seed Pokémon",
         "ability": "Overgrow: When HP is below 1/3, the power of Grass-type moves increases 1.5x."
       },
       "basedStats": {
@@ -16,15 +16,15 @@
         "specialDef": "65",
         "speed": "45"
       },
-      "description": "Bulbasaur is a strong, manageable Pokémon for beginning trainers. No one's sure whether Bulbasaur and its evolutions are plants or animals, as they seem to have the characteristics of both.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891758-001bulbasaur.png"
+      "description": "Bulbasaur is a small, quadrupedal Pokémon that has blue-green skin with darker patches. It has red eyes and a pair of pointed ears.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
     },
     {
       "name": "Ivysaur",
       "vitals": {
         "pokedex": "2",
         "type": "Grass & Poison",
-        "classification": "Seed Pokemon",
+        "classification": "Seed Pokémon",
         "ability": "Overgrow: When HP is below 1/3, the power of Grass-type moves increases 1.5x."
       },
       "basedStats": {
@@ -35,15 +35,15 @@
         "specialDef": "80",
         "speed": "60"
       },
-      "description": "Ivysaur is the evolved form of Bulbasaur. Its bud has bloomed into a large flower, and it spends more time soaking up the sun's rays.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891759-002ivysaur.png"
+      "description": "Ivysaur is Bulbasaur’s evolved form, showing more of a plant-like nature as it grows larger. It is a bit more aggressive and protective of its plant bulb.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png"
     },
     {
       "name": "Venusaur",
       "vitals": {
         "pokedex": "3",
         "type": "Grass & Poison",
-        "classification": "Seed Pokemon",
+        "classification": "Seed Pokémon",
         "ability": "Overgrow: When HP is below 1/3, the power of Grass-type moves increases 1.5x."
       },
       "basedStats": {
@@ -54,15 +54,15 @@
         "specialDef": "100",
         "speed": "80"
       },
-      "description": "Venusaur is the final evolution of Bulbasaur. Its flower is in full bloom, and it is said to absorb energy from the sunlight to grow even stronger.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891760-003venusaur.png"
+      "description": "Venusaur is the final evolution of Bulbasaur. It has a large flower on its back that absorbs sunlight to produce energy.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png"
     },
     {
       "name": "Charmander",
       "vitals": {
         "pokedex": "4",
         "type": "Fire",
-        "classification": "Lizard Pokemon",
+        "classification": "Lizard Pokémon",
         "ability": "Blaze: When HP is below 1/3, the power of Fire-type moves increases 1.5x."
       },
       "basedStats": {
@@ -73,15 +73,15 @@
         "specialDef": "50",
         "speed": "65"
       },
-      "description": "Charmander is a small, bipedal lizard-like Pokémon. Its flame at the tip of its tail indicates its health and mood.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/0/6087/2438704-1202149925_t.png"
+      "description": "Charmander is a small, bipedal lizard-like Pokémon. It has a flame at the tip of its tail that burns brightly.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
     },
     {
       "name": "Charmeleon",
       "vitals": {
         "pokedex": "5",
         "type": "Fire",
-        "classification": "Flame Pokemon",
+        "classification": "Flame Pokémon",
         "ability": "Blaze: When HP is below 1/3, the power of Fire-type moves increases 1.5x."
       },
       "basedStats": {
@@ -93,14 +93,14 @@
         "speed": "80"
       },
       "description": "Charmeleon is the evolved form of Charmander. It is more aggressive and has a larger flame on its tail.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891762-005charmeleon.png"
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png"
     },
     {
       "name": "Charizard",
       "vitals": {
         "pokedex": "6",
         "type": "Fire & Flying",
-        "classification": "Flame Pokemon",
+        "classification": "Flame Pokémon",
         "ability": "Blaze: When HP is below 1/3, the power of Fire-type moves increases 1.5x."
       },
       "basedStats": {
@@ -112,14 +112,14 @@
         "speed": "100"
       },
       "description": "Charizard is the final evolution of Charmander. It is a powerful dragon-like Pokémon capable of flying and breathing intense flames.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891763-006charizard.png"
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
     },
     {
       "name": "Squirtle",
       "vitals": {
         "pokedex": "7",
         "type": "Water",
-        "classification": "Tiny Turtle Pokemon",
+        "classification": "Tiny Turtle Pokémon",
         "ability": "Torrent: When HP is below 1/3, the power of Water-type moves increases 1.5x."
       },
       "basedStats": {
@@ -130,15 +130,15 @@
         "specialDef": "64",
         "speed": "43"
       },
-      "description": "Squirtle is a small, turtle-like Pokémon. It can spray water from its mouth and retract into its shell for protection.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891764-007squirtle.png"
+      "description": "Squirtle is a small, turtle-like Pokémon with a shell that it can retract into for protection.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
     },
     {
       "name": "Wartortle",
       "vitals": {
         "pokedex": "8",
         "type": "Water",
-        "classification": "Turtle Pokemon",
+        "classification": "Turtle Pokémon",
         "ability": "Torrent: When HP is below 1/3, the power of Water-type moves increases 1.5x."
       },
       "basedStats": {
@@ -149,15 +149,15 @@
         "specialDef": "80",
         "speed": "58"
       },
-      "description": "Wartortle is the evolved form of Squirtle. It has larger ears and a more robust shell, making it a formidable opponent.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891765-008wartortle.png"
+      "description": "Wartortle is the evolved form of Squirtle. It has a more developed shell and longer ears.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png"
     },
     {
       "name": "Blastoise",
       "vitals": {
         "pokedex": "9",
         "type": "Water",
-        "classification": "Shellfish Pokemon",
+        "classification": "Shellfish Pokémon",
         "ability": "Torrent: When HP is below 1/3, the power of Water-type moves increases 1.5x."
       },
       "basedStats": {
@@ -168,16 +168,16 @@
         "specialDef": "105",
         "speed": "78"
       },
-      "description": "Blastoise is the final evolution of Squirtle. It has powerful water cannons on its shell, capable of shooting water with incredible force.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891766-009blastoise.png"
+      "description": "Blastoise is the final evolution of Squirtle. It has powerful water cannons on its shell that can shoot water with great force.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png"
     },
     {
       "name": "Caterpie",
       "vitals": {
         "pokedex": "10",
         "type": "Bug",
-        "classification": "Worm Pokemon",
-        "ability": "Shield Dust: Blocks the additional effects of attacks taken."
+        "classification": "Worm Pokémon",
+        "ability": "Shield Dust: Blocks the added effects of attacks taken."
       },
       "basedStats": {
         "hp": "45",
@@ -187,16 +187,16 @@
         "specialDef": "20",
         "speed": "45"
       },
-      "description": "Caterpie is a small, worm-like Pokémon. It is covered in a green exoskeleton and has large, red antennae.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891767-010caterpie.png"
+      "description": "Caterpie is a small, worm-like Pokémon with a voracious appetite. It is covered in a green exoskeleton.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png"
     },
     {
       "name": "Metapod",
       "vitals": {
         "pokedex": "11",
         "type": "Bug",
-        "classification": "Cocoon Pokemon",
-        "ability": "Shed Skin: May heal its own status conditions by shedding its skin."
+        "classification": "Cocoon Pokémon",
+        "ability": "Shed Skin: The Pokémon may heal its own status conditions."
       },
       "basedStats": {
         "hp": "50",
@@ -206,16 +206,16 @@
         "specialDef": "25",
         "speed": "30"
       },
-      "description": "Metapod is the evolved form of Caterpie. It remains motionless as it prepares to evolve, hardening its shell for protection.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891768-011metapod.png"
+      "description": "Metapod is the evolved form of Caterpie. It is encased in a hard shell while it undergoes metamorphosis.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png"
     },
     {
       "name": "Butterfree",
       "vitals": {
         "pokedex": "12",
         "type": "Bug & Flying",
-        "classification": "Butterfly Pokemon",
-        "ability": "Compound Eyes: Increases the accuracy of moves used by the Pokémon."
+        "classification": "Butterfly Pokémon",
+        "ability": "Compound Eyes: Increases the Pokémon's accuracy."
       },
       "basedStats": {
         "hp": "60",
@@ -225,16 +225,16 @@
         "specialDef": "80",
         "speed": "70"
       },
-      "description": "Butterfree is the final evolution of Caterpie. It is known for its beautiful wings and its ability to scatter sleep-inducing scales.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891769-012butterfree.png"
+      "description": "Butterfree is the final evolution of Caterpie. It has large, colorful wings and can scatter poisonous scales.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png"
     },
     {
       "name": "Weedle",
       "vitals": {
         "pokedex": "13",
         "type": "Bug & Poison",
-        "classification": "Hairy Bug Pokemon",
-        "ability": "Shield Dust: Blocks the additional effects of attacks taken."
+        "classification": "Hairy Bug Pokémon",
+        "ability": "Shield Dust: Blocks the added effects of attacks taken."
       },
       "basedStats": {
         "hp": "40",
@@ -244,16 +244,16 @@
         "specialDef": "20",
         "speed": "50"
       },
-      "description": "Weedle is a small, worm-like Pokémon with a sharp stinger on its head. It is often found in forests and grasslands.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891770-013weedle.png"
+      "description": "Weedle is a small, worm-like Pokémon with a sharp stinger on its head. It is covered in a brown exoskeleton.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png"
     },
     {
       "name": "Kakuna",
       "vitals": {
         "pokedex": "14",
         "type": "Bug & Poison",
-        "classification": "Cocoon Pokemon",
-        "ability": "Shed Skin: May heal its own status conditions by shedding its skin."
+        "classification": "Cocoon Pokémon",
+        "ability": "Shed Skin: The Pokémon may heal its own status conditions."
       },
       "basedStats": {
         "hp": "45",
@@ -263,15 +263,15 @@
         "specialDef": "25",
         "speed": "35"
       },
-      "description": "Kakuna is the evolved form of Weedle. It remains motionless, waiting for the moment to evolve into its next form.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891771-014kakuna.png"
+      "description": "Kakuna is the evolved form of Weedle. It is encased in a hard shell while it undergoes metamorphosis.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png"
     },
     {
       "name": "Beedrill",
       "vitals": {
         "pokedex": "15",
         "type": "Bug & Poison",
-        "classification": "Poison Bee Pokemon",
+        "classification": "Poison Bee Pokémon",
         "ability": "Swarm: Increases the power of Bug-type moves when HP is low."
       },
       "basedStats": {
@@ -282,15 +282,15 @@
         "specialDef": "80",
         "speed": "75"
       },
-      "description": "Beedrill is the final evolution of Weedle. It is highly aggressive and uses its large stingers to attack its enemies.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891772-015beedrill.png"
+      "description": "Beedrill is the final evolution of Weedle. It is a large, aggressive Pokémon with a pair of powerful stingers.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png"
     },
     {
       "name": "Pidgey",
       "vitals": {
         "pokedex": "16",
         "type": "Normal & Flying",
-        "classification": "Tiny Bird Pokemon",
+        "classification": "Tiny Bird Pokémon",
         "ability": "Keen Eye: Prevents the Pokémon from losing accuracy."
       },
       "basedStats": {
@@ -301,15 +301,15 @@
         "specialDef": "35",
         "speed": "56"
       },
-      "description": "Pidgey is a small, bird-like Pokémon. It is very common and can be found in many areas, often flying in flocks.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891773-016pidgey.png"
+      "description": "Pidgey is a small, bird-like Pokémon with a gentle nature. It is commonly found in forests and grasslands.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png"
     },
     {
       "name": "Pidgeotto",
       "vitals": {
         "pokedex": "17",
         "type": "Normal & Flying",
-        "classification": "Bird Pokemon",
+        "classification": "Bird Pokémon",
         "ability": "Keen Eye: Prevents the Pokémon from losing accuracy."
       },
       "basedStats": {
@@ -320,15 +320,15 @@
         "specialDef": "50",
         "speed": "71"
       },
-      "description": "Pidgeotto is the evolved form of Pidgey. It is larger and more powerful, with sharp claws and a keen sense of sight.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891774-017pidgeotto.png"
+      "description": "Pidgeotto is the evolved form of Pidgey. It has a larger wingspan and is more aggressive in defending its territory.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png"
     },
     {
       "name": "Pidgeot",
       "vitals": {
         "pokedex": "18",
         "type": "Normal & Flying",
-        "classification": "Bird Pokemon",
+        "classification": "Bird Pokémon",
         "ability": "Keen Eye: Prevents the Pokémon from losing accuracy."
       },
       "basedStats": {
@@ -339,16 +339,16 @@
         "specialDef": "70",
         "speed": "101"
       },
-      "description": "Pidgeot is the final evolution of Pidgey. It is a majestic bird Pokémon capable of flying at incredible speeds.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891775-018pidgeot.png"
+      "description": "Pidgeot is the final evolution of Pidgey. It is a large, majestic bird Pokémon capable of flying at high speeds.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png"
     },
     {
       "name": "Rattata",
       "vitals": {
         "pokedex": "19",
         "type": "Normal",
-        "classification": "Mouse Pokemon",
-        "ability": "Run Away: Enables the Pokémon to flee from wild battles without fail."
+        "classification": "Mouse Pokémon",
+        "ability": "Run Away: Enables a sure getaway from wild Pokémon."
       },
       "basedStats": {
         "hp": "30",
@@ -358,16 +358,16 @@
         "specialDef": "35",
         "speed": "72"
       },
-      "description": "Rattata is a small, rodent-like Pokémon. It is known for its quick movements and its tendency to reproduce rapidly.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891776-019rattata.png"
+      "description": "Rattata is a small, rodent-like Pokémon with a voracious appetite. It is known for its quick movements.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png"
     },
     {
       "name": "Raticate",
       "vitals": {
         "pokedex": "20",
         "type": "Normal",
-        "classification": "Mouse Pokemon",
-        "ability": "Run Away: Enables the Pokémon to flee from wild battles without fail."
+        "classification": "Mouse Pokémon",
+        "ability": "Run Away: Enables a sure getaway from wild Pokémon."
       },
       "basedStats": {
         "hp": "55",
@@ -377,15 +377,15 @@
         "specialDef": "70",
         "speed": "97"
       },
-      "description": "Raticate is the evolved form of Rattata. It is larger and more aggressive, with strong teeth capable of chewing through tough materials.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891777-020raticate.png"
+      "description": "Raticate is the evolved form of Rattata. It is larger and more aggressive, with powerful teeth.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png"
     },
     {
       "name": "Spearow",
       "vitals": {
         "pokedex": "21",
         "type": "Normal & Flying",
-        "classification": "Tiny Bird Pokemon",
+        "classification": "Tiny Bird Pokémon",
         "ability": "Keen Eye: Prevents the Pokémon from losing accuracy."
       },
       "basedStats": {
@@ -396,15 +396,15 @@
         "specialDef": "31",
         "speed": "70"
       },
-      "description": "Spearow is a small, bird-like Pokémon. It is known for its loud cries and aggressive behavior, often attacking intruders.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891778-021spearow.png"
+      "description": "Spearow is a small, bird-like Pokémon with a loud cry. It is known for its aggressive nature.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png"
     },
     {
       "name": "Fearow",
       "vitals": {
         "pokedex": "22",
         "type": "Normal & Flying",
-        "classification": "Beak Pokemon",
+        "classification": "Beak Pokémon",
         "ability": "Keen Eye: Prevents the Pokémon from losing accuracy."
       },
       "basedStats": {
@@ -415,16 +415,16 @@
         "specialDef": "61",
         "speed": "100"
       },
-      "description": "Fearow is the evolved form of Spearow. It has a long neck and beak, which it uses to strike prey from a distance.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891779-022fearow.png"
+      "description": "Fearow is the evolved form of Spearow. It has a long neck and beak, and is capable of flying long distances.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png"
     },
     {
       "name": "Ekans",
       "vitals": {
         "pokedex": "23",
         "type": "Poison",
-        "classification": "Snake Pokemon",
-        "ability": "Intimidate: Lowers the opponent's Attack stat when the Pokémon enters battle."
+        "classification": "Snake Pokémon",
+        "ability": "Intimidate: Lowers the opponent's Attack stat."
       },
       "basedStats": {
         "hp": "35",
@@ -434,16 +434,16 @@
         "specialDef": "54",
         "speed": "55"
       },
-      "description": "Ekans is a snake-like Pokémon. It slithers silently and uses its fangs to inject venom into its prey.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891780-023ekans.png"
+      "description": "Ekans is a snake-like Pokémon that can unhinge its jaw to swallow prey larger than itself.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png"
     },
     {
       "name": "Arbok",
       "vitals": {
         "pokedex": "24",
         "type": "Poison",
-        "classification": "Cobra Pokemon",
-        "ability": "Intimidate: Lowers the opponent's Attack stat when the Pokémon enters battle."
+        "classification": "Cobra Pokémon",
+        "ability": "Intimidate: Lowers the opponent's Attack stat."
       },
       "basedStats": {
         "hp": "60",
@@ -453,15 +453,15 @@
         "specialDef": "79",
         "speed": "80"
       },
-      "description": "Arbok is the evolved form of Ekans. It has a menacing hood and can paralyze foes with its terrifying glare.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891781-024arbok.png"
+      "description": "Arbok is the evolved form of Ekans. It has a menacing hood and can paralyze its prey with a glare.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png"
     },
     {
       "name": "Pikachu",
       "vitals": {
         "pokedex": "25",
         "type": "Electric",
-        "classification": "Mouse Pokemon",
+        "classification": "Mouse Pokémon",
         "ability": "Static: May paralyze the opponent when hit by a physical move."
       },
       "basedStats": {
@@ -472,15 +472,15 @@
         "specialDef": "50",
         "speed": "90"
       },
-      "description": "Pikachu is an iconic Electric-type Pokémon. It stores electricity in its cheeks and can unleash powerful shocks.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891782-025pikachu.png"
+      "description": "Pikachu is a small, mouse-like Pokémon with electric sacs in its cheeks. It is known for its lightning bolt-shaped tail.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
     },
     {
       "name": "Raichu",
       "vitals": {
         "pokedex": "26",
         "type": "Electric",
-        "classification": "Mouse Pokemon",
+        "classification": "Mouse Pokémon",
         "ability": "Static: May paralyze the opponent when hit by a physical move."
       },
       "basedStats": {
@@ -491,15 +491,15 @@
         "specialDef": "80",
         "speed": "110"
       },
-      "description": "Raichu is the evolved form of Pikachu. It is more powerful and can discharge large amounts of electricity.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891783-026raichu.png"
+      "description": "Raichu is the evolved form of Pikachu. It has a more powerful electric charge and a longer tail.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png"
     },
     {
       "name": "Sandshrew",
       "vitals": {
         "pokedex": "27",
         "type": "Ground",
-        "classification": "Mouse Pokemon",
+        "classification": "Mouse Pokémon",
         "ability": "Sand Veil: Increases evasion during a sandstorm."
       },
       "basedStats": {
@@ -510,15 +510,15 @@
         "specialDef": "30",
         "speed": "40"
       },
-      "description": "Sandshrew is a small, ground-dwelling Pokémon. It curls into a ball to protect itself from attacks.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891784-027sandshrew.png"
+      "description": "Sandshrew is a small, ground-dwelling Pokémon with a tough, sandy hide. It curls into a ball for protection.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png"
     },
     {
       "name": "Sandslash",
       "vitals": {
         "pokedex": "28",
         "type": "Ground",
-        "classification": "Mouse Pokemon",
+        "classification": "Mouse Pokémon",
         "ability": "Sand Veil: Increases evasion during a sandstorm."
       },
       "basedStats": {
@@ -529,15 +529,15 @@
         "specialDef": "55",
         "speed": "65"
       },
-      "description": "Sandslash is the evolved form of Sandshrew. It has sharp claws and can roll into a spiky ball to attack foes.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891785-028sandslash.png"
+      "description": "Sandslash is the evolved form of Sandshrew. It has sharp claws and can roll into a spiky ball for defense.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png"
     },
     {
       "name": "Nidoran♀",
       "vitals": {
         "pokedex": "29",
         "type": "Poison",
-        "classification": "Poison Pin Pokemon",
+        "classification": "Poison Pin Pokémon",
         "ability": "Poison Point: May poison the opponent when hit by a physical move."
       },
       "basedStats": {
@@ -548,15 +548,15 @@
         "specialDef": "40",
         "speed": "41"
       },
-      "description": "Nidoran♀ is a small, rabbit-like Pokémon. It is highly territorial and uses its poison spikes for defense.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891786-029nidoranf.png"
+      "description": "Nidoran♀ is a small, rabbit-like Pokémon with a poisonous horn. It is known for its gentle nature.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png"
     },
     {
       "name": "Nidorina",
       "vitals": {
         "pokedex": "30",
         "type": "Poison",
-        "classification": "Poison Pin Pokemon",
+        "classification": "Poison Pin Pokémon",
         "ability": "Poison Point: May poison the opponent when hit by a physical move."
       },
       "basedStats": {
@@ -567,15 +567,15 @@
         "specialDef": "55",
         "speed": "56"
       },
-      "description": "Nidorina is the evolved form of Nidoran♀. It is more protective of its young and uses its poison spikes to deter threats.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891787-030nidorina.png"
+      "description": "Nidorina is the evolved form of Nidoran♀. It is more aggressive and protective of its young.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png"
     },
     {
       "name": "Nidoqueen",
       "vitals": {
         "pokedex": "31",
         "type": "Poison & Ground",
-        "classification": "Drill Pokemon",
+        "classification": "Drill Pokémon",
         "ability": "Poison Point: May poison the opponent when hit by a physical move."
       },
       "basedStats": {
@@ -586,15 +586,15 @@
         "specialDef": "85",
         "speed": "76"
       },
-      "description": "Nidoqueen is the final evolution of Nidoran♀. It is a powerful, tank-like Pokémon with a tough hide and strong attacks.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891788-031nidoqueen.png"
+      "description": "Nidoqueen is the final evolution of Nidoran♀. It is a powerful, armored Pokémon with a tough hide.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png"
     },
     {
       "name": "Nidoran♂",
       "vitals": {
         "pokedex": "32",
         "type": "Poison",
-        "classification": "Poison Pin Pokemon",
+        "classification": "Poison Pin Pokémon",
         "ability": "Poison Point: May poison the opponent when hit by a physical move."
       },
       "basedStats": {
@@ -605,15 +605,15 @@
         "specialDef": "40",
         "speed": "50"
       },
-      "description": "Nidoran♂ is a small, rabbit-like Pokémon. It is highly territorial and uses its poison spikes for defense.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891789-032nidoranm.png"
+      "description": "Nidoran♂ is a small, rabbit-like Pokémon with a poisonous horn. It is known for its aggressive nature.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png"
     },
     {
       "name": "Nidorino",
       "vitals": {
         "pokedex": "33",
         "type": "Poison",
-        "classification": "Poison Pin Pokemon",
+        "classification": "Poison Pin Pokémon",
         "ability": "Poison Point: May poison the opponent when hit by a physical move."
       },
       "basedStats": {
@@ -624,15 +624,15 @@
         "specialDef": "55",
         "speed": "65"
       },
-      "description": "Nidorino is the evolved form of Nidoran♂. It is more aggressive and uses its horn to attack foes.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891790-033nidorino.png"
+      "description": "Nidorino is the evolved form of Nidoran♂. It is more aggressive and has a larger horn.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png"
     },
     {
       "name": "Nidoking",
       "vitals": {
         "pokedex": "34",
         "type": "Poison & Ground",
-        "classification": "Drill Pokemon",
+        "classification": "Drill Pokémon",
         "ability": "Poison Point: May poison the opponent when hit by a physical move."
       },
       "basedStats": {
@@ -643,16 +643,16 @@
         "specialDef": "75",
         "speed": "85"
       },
-      "description": "Nidoking is the final evolution of Nidoran♂. It is a fearsome Pokémon with immense strength and a destructive horn.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891791-034nidoking.png"
+      "description": "Nidoking is the final evolution of Nidoran♂. It is a powerful, armored Pokémon with a tough hide.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png"
     },
     {
       "name": "Clefairy",
       "vitals": {
         "pokedex": "35",
         "type": "Fairy",
-        "classification": "Fairy Pokemon",
-        "ability": "Cute Charm: May cause infatuation when hit by a physical move."
+        "classification": "Fairy Pokémon",
+        "ability": "Cute Charm: May infatuate the opponent when hit by a physical move."
       },
       "basedStats": {
         "hp": "70",
@@ -662,16 +662,16 @@
         "specialDef": "65",
         "speed": "35"
       },
-      "description": "Clefairy is a small, pink Pokémon. It is said to come from the moon and is often seen dancing under its light.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891792-035clefairy.png"
+      "description": "Clefairy is a small, fairy-like Pokémon with a pink body. It is known for its playful nature.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png"
     },
     {
       "name": "Clefable",
       "vitals": {
         "pokedex": "36",
         "type": "Fairy",
-        "classification": "Fairy Pokemon",
-        "ability": "Cute Charm: May cause infatuation when hit by a physical move."
+        "classification": "Fairy Pokémon",
+        "ability": "Cute Charm: May infatuate the opponent when hit by a physical move."
       },
       "basedStats": {
         "hp": "95",
@@ -681,16 +681,16 @@
         "specialDef": "90",
         "speed": "60"
       },
-      "description": "Clefable is the evolved form of Clefairy. It is a rare Pokémon that avoids detection by living in quiet, remote areas.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891793-036clefable.png"
+      "description": "Clefable is the evolved form of Clefairy. It is a larger, more powerful fairy Pokémon.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png"
     },
     {
       "name": "Vulpix",
       "vitals": {
         "pokedex": "37",
         "type": "Fire",
-        "classification": "Fox Pokemon",
-        "ability": "Flash Fire: Powers up Fire-type moves when hit by one."
+        "classification": "Fox Pokémon",
+        "ability": "Flash Fire: Powers up Fire-type moves when hit by a Fire move."
       },
       "basedStats": {
         "hp": "38",
@@ -700,16 +700,16 @@
         "specialDef": "65",
         "speed": "65"
       },
-      "description": "Vulpix is a small, fox-like Pokémon. It has six tails that grow hotter as it evolves.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891794-037vulpix.png"
+      "description": "Vulpix is a small, fox-like Pokémon with six tails. It is known for its fiery breath.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png"
     },
     {
       "name": "Ninetales",
       "vitals": {
         "pokedex": "38",
         "type": "Fire",
-        "classification": "Fox Pokemon",
-        "ability": "Flash Fire: Powers up Fire-type moves when hit by one."
+        "classification": "Fox Pokémon",
+        "ability": "Flash Fire: Powers up Fire-type moves when hit by a Fire move."
       },
       "basedStats": {
         "hp": "73",
@@ -719,16 +719,16 @@
         "specialDef": "100",
         "speed": "100"
       },
-      "description": "Ninetales is the evolved form of Vulpix. It is a mystical Pokémon with nine tails, said to live for a thousand years.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891795-038ninetales.png"
+      "description": "Ninetales is the evolved form of Vulpix. It has nine tails and is said to live for a thousand years.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png"
     },
     {
       "name": "Jigglypuff",
       "vitals": {
         "pokedex": "39",
         "type": "Normal & Fairy",
-        "classification": "Balloon Pokemon",
-        "ability": "Cute Charm: May cause infatuation when hit by a physical move."
+        "classification": "Balloon Pokémon",
+        "ability": "Cute Charm: May infatuate the opponent when hit by a physical move."
       },
       "basedStats": {
         "hp": "115",
@@ -738,16 +738,16 @@
         "specialDef": "25",
         "speed": "20"
       },
-      "description": "Jigglypuff is a small, balloon-like Pokémon. It sings a soothing lullaby that can put anyone to sleep.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891796-039jigglypuff.png"
+      "description": "Jigglypuff is a small, balloon-like Pokémon with a soothing voice. It is known for putting others to sleep.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png"
     },
     {
       "name": "Wigglytuff",
       "vitals": {
         "pokedex": "40",
         "type": "Normal & Fairy",
-        "classification": "Balloon Pokemon",
-        "ability": "Cute Charm: May cause infatuation when hit by a physical move."
+        "classification": "Balloon Pokémon",
+        "ability": "Cute Charm: May infatuate the opponent when hit by a physical move."
       },
       "basedStats": {
         "hp": "140",
@@ -757,15 +757,15 @@
         "specialDef": "50",
         "speed": "45"
       },
-      "description": "Wigglytuff is the evolved form of Jigglypuff. It has a soft, stretchy body and is known for its soothing voice.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891797-040wigglytuff.png"
+      "description": "Wigglytuff is the evolved form of Jigglypuff. It is larger and has a more powerful voice.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png"
     },
     {
       "name": "Zubat",
       "vitals": {
         "pokedex": "41",
         "type": "Poison & Flying",
-        "classification": "Bat Pokemon",
+        "classification": "Bat Pokémon",
         "ability": "Inner Focus: Prevents flinching."
       },
       "basedStats": {
@@ -776,15 +776,15 @@
         "specialDef": "40",
         "speed": "55"
       },
-      "description": "Zubat is a bat-like Pokémon. It uses echolocation to navigate in the dark and is often found in caves.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891798-041zubat.png"
+      "description": "Zubat is a small, bat-like Pokémon that lives in dark caves. It uses echolocation to navigate.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png"
     },
     {
       "name": "Golbat",
       "vitals": {
         "pokedex": "42",
         "type": "Poison & Flying",
-        "classification": "Bat Pokemon",
+        "classification": "Bat Pokémon",
         "ability": "Inner Focus: Prevents flinching."
       },
       "basedStats": {
@@ -795,16 +795,16 @@
         "specialDef": "75",
         "speed": "90"
       },
-      "description": "Golbat is the evolved form of Zubat. It is larger and more aggressive, often attacking prey with its sharp fangs.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891799-042golbat.png"
+      "description": "Golbat is the evolved form of Zubat. It is larger and has a more powerful bite.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png"
     },
     {
       "name": "Oddish",
       "vitals": {
         "pokedex": "43",
         "type": "Grass & Poison",
-        "classification": "Weed Pokemon",
-        "ability": "Chlorophyll: Boosts Speed in sunny weather."
+        "classification": "Weed Pokémon",
+        "ability": "Chlorophyll: Increases Speed during strong sunlight."
       },
       "basedStats": {
         "hp": "45",
@@ -814,16 +814,16 @@
         "specialDef": "65",
         "speed": "30"
       },
-      "description": "Oddish is a small, plant-like Pokémon. It buries itself in the ground during the day and comes out at night.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891800-043oddish.png"
+      "description": "Oddish is a small, plant-like Pokémon that burrows into the ground during the day.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png"
     },
     {
       "name": "Gloom",
       "vitals": {
         "pokedex": "44",
         "type": "Grass & Poison",
-        "classification": "Weed Pokemon",
-        "ability": "Chlorophyll: Boosts Speed in sunny weather."
+        "classification": "Weed Pokémon",
+        "ability": "Chlorophyll: Increases Speed during strong sunlight."
       },
       "basedStats": {
         "hp": "60",
@@ -833,16 +833,16 @@
         "specialDef": "75",
         "speed": "40"
       },
-      "description": "Gloom is the evolved form of Oddish. It emits a foul odor from its mouth, which can cause fainting.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891801-044gloom.png"
+      "description": "Gloom is the evolved form of Oddish. It has a foul odor that can cause fainting.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png"
     },
     {
       "name": "Vileplume",
       "vitals": {
         "pokedex": "45",
         "type": "Grass & Poison",
-        "classification": "Flower Pokemon",
-        "ability": "Chlorophyll: Boosts Speed in sunny weather."
+        "classification": "Flower Pokémon",
+        "ability": "Chlorophyll: Increases Speed during strong sunlight."
       },
       "basedStats": {
         "hp": "75",
@@ -852,15 +852,15 @@
         "specialDef": "90",
         "speed": "50"
       },
-      "description": "Vileplume is the final evolution of Oddish. It has a large, colorful flower that releases toxic pollen.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891802-045vileplume.png"
+      "description": "Vileplume is the final evolution of Oddish. It has a large flower on its head that releases toxic pollen.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png"
     },
     {
       "name": "Paras",
       "vitals": {
         "pokedex": "46",
         "type": "Bug & Grass",
-        "classification": "Mushroom Pokemon",
+        "classification": "Mushroom Pokémon",
         "ability": "Effect Spore: May inflict paralysis, poison, or sleep when hit by a physical move."
       },
       "basedStats": {
@@ -871,15 +871,15 @@
         "specialDef": "55",
         "speed": "25"
       },
-      "description": "Paras is a small, insect-like Pokémon. It is controlled by the mushrooms on its back, which drain its energy.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891803-046paras.png"
+      "description": "Paras is a small, insect-like Pokémon with mushrooms growing on its back. It is often found in damp areas.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png"
     },
     {
       "name": "Parasect",
       "vitals": {
         "pokedex": "47",
         "type": "Bug & Grass",
-        "classification": "Mushroom Pokemon",
+        "classification": "Mushroom Pokémon",
         "ability": "Effect Spore: May inflict paralysis, poison, or sleep when hit by a physical move."
       },
       "basedStats": {
@@ -890,16 +890,16 @@
         "specialDef": "80",
         "speed": "30"
       },
-      "description": "Parasect is the evolved form of Paras. The mushrooms on its back have completely taken over its body.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891804-047parasect.png"
+      "description": "Parasect is the evolved form of Paras. The mushrooms on its back have taken over its body, controlling its actions.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png"
     },
     {
       "name": "Venonat",
       "vitals": {
         "pokedex": "48",
         "type": "Bug & Poison",
-        "classification": "Insect Pokemon",
-        "ability": "Compound Eyes: Increases accuracy of moves."
+        "classification": "Insect Pokémon",
+        "ability": "Compound Eyes: Increases the Pokémon's accuracy."
       },
       "basedStats": {
         "hp": "60",
@@ -909,16 +909,16 @@
         "specialDef": "55",
         "speed": "45"
       },
-      "description": "Venonat is a small, insect-like Pokémon. It has large eyes that can see in the dark and emits a strange powder.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891805-048venonat.png"
+      "description": "Venonat is a small, insect-like Pokémon with large eyes and a fuzzy body. It is often found in forests.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png"
     },
     {
       "name": "Venomoth",
       "vitals": {
         "pokedex": "49",
         "type": "Bug & Poison",
-        "classification": "Poison Moth Pokemon",
-        "ability": "Shield Dust: Blocks additional effects of attacks."
+        "classification": "Poison Moth Pokémon",
+        "ability": "Shield Dust: Blocks the added effects of attacks taken."
       },
       "basedStats": {
         "hp": "70",
@@ -928,15 +928,15 @@
         "specialDef": "75",
         "speed": "90"
       },
-      "description": "Venomoth is the evolved form of Venonat. It has large wings that scatter toxic scales when it flaps them.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891806-049venomoth.png"
+      "description": "Venomoth is the evolved form of Venonat. It has large wings that scatter toxic scales when it flies.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png"
     },
     {
       "name": "Diglett",
       "vitals": {
         "pokedex": "50",
         "type": "Ground",
-        "classification": "Mole Pokemon",
+        "classification": "Mole Pokémon",
         "ability": "Sand Veil: Increases evasion during a sandstorm."
       },
       "basedStats": {
@@ -947,34 +947,34 @@
         "specialDef": "45",
         "speed": "95"
       },
-      "description": "Diglett is a small, mole-like Pokémon. It lives underground and is rarely seen above the surface.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891807-050diglett.png"
+      "description": "Diglett is a small, mole-like Pokémon that lives underground. It is rarely seen above the surface.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png"
     },
     {
       "name": "Dugtrio",
       "vitals": {
         "pokedex": "51",
         "type": "Ground",
-        "classification": "Mole Pokemon",
+        "classification": "Mole Pokémon",
         "ability": "Sand Veil: Increases evasion during a sandstorm."
       },
       "basedStats": {
         "hp": "35",
-        "attack": "100",
+        "attack": "80",
         "defense": "50",
         "specialAtk": "50",
         "specialDef": "70",
         "speed": "120"
       },
-      "description": "Dugtrio is the evolved form of Diglett. It consists of three Diglett working together to dig through the ground at incredible speeds.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891808-051dugtrio.png"
+      "description": "Dugtrio is the evolved form of Diglett. It consists of three Diglett working together to dig through the ground.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png"
     },
     {
       "name": "Meowth",
       "vitals": {
         "pokedex": "52",
         "type": "Normal",
-        "classification": "Scratch Cat Pokemon",
+        "classification": "Scratch Cat Pokémon",
         "ability": "Pickup: May pick up items after battle."
       },
       "basedStats": {
@@ -985,16 +985,16 @@
         "specialDef": "40",
         "speed": "90"
       },
-      "description": "Meowth is a small, cat-like Pokémon. It is known for its love of shiny objects and its ability to use the move Pay Day.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891809-052meowth.png"
+      "description": "Meowth is a small, cat-like Pokémon with a coin on its forehead. It is known for its love of shiny objects.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png"
     },
     {
       "name": "Persian",
       "vitals": {
         "pokedex": "53",
         "type": "Normal",
-        "classification": "Classy Cat Pokemon",
-        "ability": "Limber: Prevents paralysis."
+        "classification": "Classy Cat Pokémon",
+        "ability": "Limber: Prevents the Pokémon from being paralyzed."
       },
       "basedStats": {
         "hp": "65",
@@ -1004,16 +1004,16 @@
         "specialDef": "65",
         "speed": "115"
       },
-      "description": "Persian is the evolved form of Meowth. It is a sleek and elegant Pokémon with a gem on its forehead.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891810-053persian.png"
+      "description": "Persian is the evolved form of Meowth. It is a sleek, elegant Pokémon with a jewel on its forehead.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png"
     },
     {
       "name": "Psyduck",
       "vitals": {
         "pokedex": "54",
         "type": "Water",
-        "classification": "Duck Pokemon",
-        "ability": "Damp: Prevents self-destructing moves."
+        "classification": "Duck Pokémon",
+        "ability": "Damp: Prevents the use of self-destructing moves."
       },
       "basedStats": {
         "hp": "50",
@@ -1023,16 +1023,16 @@
         "specialDef": "50",
         "speed": "55"
       },
-      "description": "Psyduck is a duck-like Pokémon. It is constantly plagued by headaches, which trigger its psychic powers.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891811-054psyduck.png"
+      "description": "Psyduck is a small, duck-like Pokémon that is often confused. It has latent psychic powers.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png"
     },
     {
       "name": "Golduck",
       "vitals": {
         "pokedex": "55",
         "type": "Water",
-        "classification": "Duck Pokemon",
-        "ability": "Damp: Prevents self-destructing moves."
+        "classification": "Duck Pokémon",
+        "ability": "Damp: Prevents the use of self-destructing moves."
       },
       "basedStats": {
         "hp": "80",
@@ -1042,16 +1042,16 @@
         "specialDef": "80",
         "speed": "85"
       },
-      "description": "Golduck is the evolved form of Psyduck. It is a powerful swimmer and uses its psychic abilities to confuse foes.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891812-055golduck.png"
+      "description": "Golduck is the evolved form of Psyduck. It is a powerful Pokémon with strong psychic abilities.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png"
     },
     {
       "name": "Mankey",
       "vitals": {
         "pokedex": "56",
         "type": "Fighting",
-        "classification": "Pig Monkey Pokemon",
-        "ability": "Vital Spirit: Prevents sleep."
+        "classification": "Pig Monkey Pokémon",
+        "ability": "Vital Spirit: Prevents the Pokémon from falling asleep."
       },
       "basedStats": {
         "hp": "40",
@@ -1061,16 +1061,16 @@
         "specialDef": "45",
         "speed": "70"
       },
-      "description": "Mankey is a small, monkey-like Pokémon. It is easily angered and will attack anything that provokes it.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891813-056mankey.png"
+      "description": "Mankey is a small, monkey-like Pokémon with a quick temper. It is known for its aggressive nature.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png"
     },
     {
       "name": "Primeape",
       "vitals": {
         "pokedex": "57",
         "type": "Fighting",
-        "classification": "Pig Monkey Pokemon",
-        "ability": "Vital Spirit: Prevents sleep."
+        "classification": "Pig Monkey Pokémon",
+        "ability": "Vital Spirit: Prevents the Pokémon from falling asleep."
       },
       "basedStats": {
         "hp": "65",
@@ -1080,15 +1080,15 @@
         "specialDef": "70",
         "speed": "95"
       },
-      "description": "Primeape is the evolved form of Mankey. It is incredibly aggressive and will chase down anyone who angers it.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891814-057primeape.png"
+      "description": "Primeape is the evolved form of Mankey. It is even more aggressive and has a powerful punch.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png"
     },
     {
       "name": "Growlithe",
       "vitals": {
         "pokedex": "58",
         "type": "Fire",
-        "classification": "Puppy Pokemon",
+        "classification": "Puppy Pokémon",
         "ability": "Intimidate: Lowers the opponent's Attack stat."
       },
       "basedStats": {
@@ -1099,15 +1099,15 @@
         "specialDef": "50",
         "speed": "60"
       },
-      "description": "Growlithe is a small, dog-like Pokémon. It is loyal to its trainer and has a strong sense of smell.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891815-058growlithe.png"
+      "description": "Growlithe is a small, dog-like Pokémon with a loyal nature. It is known for its fiery breath.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png"
     },
     {
       "name": "Arcanine",
       "vitals": {
         "pokedex": "59",
         "type": "Fire",
-        "classification": "Legendary Pokemon",
+        "classification": "Legendary Pokémon",
         "ability": "Intimidate: Lowers the opponent's Attack stat."
       },
       "basedStats": {
@@ -1118,15 +1118,15 @@
         "specialDef": "80",
         "speed": "95"
       },
-      "description": "Arcanine is the evolved form of Growlithe. It is a majestic Pokémon known for its speed and fiery attacks.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891816-059arcanine.png"
+      "description": "Arcanine is the evolved form of Growlithe. It is a majestic Pokémon known for its speed and strength.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png"
     },
     {
       "name": "Poliwag",
       "vitals": {
         "pokedex": "60",
         "type": "Water",
-        "classification": "Tadpole Pokemon",
+        "classification": "Tadpole Pokémon",
         "ability": "Water Absorb: Restores HP when hit by Water-type moves."
       },
       "basedStats": {
@@ -1137,15 +1137,15 @@
         "specialDef": "40",
         "speed": "90"
       },
-      "description": "Poliwag is a small, tadpole-like Pokémon. It has a spiral pattern on its belly and is a strong swimmer.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891817-060poliwag.png"
+      "description": "Poliwag is a small, tadpole-like Pokémon with a spiral on its belly. It is often found in ponds and lakes.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png"
     },
     {
       "name": "Poliwhirl",
       "vitals": {
         "pokedex": "61",
         "type": "Water",
-        "classification": "Tadpole Pokemon",
+        "classification": "Tadpole Pokémon",
         "ability": "Water Absorb: Restores HP when hit by Water-type moves."
       },
       "basedStats": {
@@ -1156,15 +1156,15 @@
         "specialDef": "50",
         "speed": "90"
       },
-      "description": "Poliwhirl is the evolved form of Poliwag. It has a more developed body and is capable of powerful punches.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891818-061poliwhirl.png"
+      "description": "Poliwhirl is the evolved form of Poliwag. It has a more developed body and is a strong swimmer.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png"
     },
     {
       "name": "Poliwrath",
       "vitals": {
         "pokedex": "62",
         "type": "Water & Fighting",
-        "classification": "Tadpole Pokemon",
+        "classification": "Tadpole Pokémon",
         "ability": "Water Absorb: Restores HP when hit by Water-type moves."
       },
       "basedStats": {
@@ -1175,16 +1175,16 @@
         "specialDef": "90",
         "speed": "70"
       },
-      "description": "Poliwrath is the evolved form of Poliwhirl. It is a powerful swimmer and uses its strength to defeat opponents.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891819-062poliwrath.png"
+      "description": "Poliwrath is the final evolution of Poliwag. It is a powerful Pokémon with strong fighting abilities.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png"
     },
     {
       "name": "Abra",
       "vitals": {
         "pokedex": "63",
         "type": "Psychic",
-        "classification": "Psi Pokemon",
-        "ability": "Synchronize: Passes status conditions to the opponent."
+        "classification": "Psi Pokémon",
+        "ability": "Synchronize: Passes on status conditions to the opponent."
       },
       "basedStats": {
         "hp": "25",
@@ -1194,16 +1194,16 @@
         "specialDef": "55",
         "speed": "90"
       },
-      "description": "Abra is a small, fox-like Pokémon. It spends most of its time sleeping and can teleport away from danger.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891820-063abra.png"
+      "description": "Abra is a small, psychic Pokémon that sleeps most of the day. It can teleport away from danger.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png"
     },
     {
       "name": "Kadabra",
       "vitals": {
         "pokedex": "64",
         "type": "Psychic",
-        "classification": "Psi Pokemon",
-        "ability": "Synchronize: Passes status conditions to the opponent."
+        "classification": "Psi Pokémon",
+        "ability": "Synchronize: Passes on status conditions to the opponent."
       },
       "basedStats": {
         "hp": "40",
@@ -1213,16 +1213,16 @@
         "specialDef": "70",
         "speed": "105"
       },
-      "description": "Kadabra is the evolved form of Abra. It wields a spoon to amplify its psychic powers and can read minds.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891821-064kadabra.png"
+      "description": "Kadabra is the evolved form of Abra. It has strong psychic powers and a spoon that amplifies its abilities.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png"
     },
     {
       "name": "Alakazam",
       "vitals": {
         "pokedex": "65",
         "type": "Psychic",
-        "classification": "Psi Pokemon",
-        "ability": "Synchronize: Passes status conditions to the opponent."
+        "classification": "Psi Pokémon",
+        "ability": "Synchronize: Passes on status conditions to the opponent."
       },
       "basedStats": {
         "hp": "55",
@@ -1232,15 +1232,15 @@
         "specialDef": "95",
         "speed": "120"
       },
-      "description": "Alakazam is the final evolution of Abra. It has an incredibly high IQ and can use its psychic powers to bend spoons.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891822-065alakazam.png"
+      "description": "Alakazam is the final evolution of Abra. It is a powerful psychic Pokémon with immense mental abilities.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png"
     },
     {
       "name": "Machop",
       "vitals": {
         "pokedex": "66",
         "type": "Fighting",
-        "classification": "Superpower Pokemon",
+        "classification": "Superpower Pokémon",
         "ability": "Guts: Increases Attack when affected by a status condition."
       },
       "basedStats": {
@@ -1251,15 +1251,15 @@
         "specialDef": "35",
         "speed": "35"
       },
-      "description": "Machop is a small, humanoid Pokémon. It trains tirelessly to build its strength and master martial arts.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891823-066machop.png"
+      "description": "Machop is a small, humanoid Pokémon with a muscular body. It is known for its strength and fighting skills.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png"
     },
     {
       "name": "Machoke",
       "vitals": {
         "pokedex": "67",
         "type": "Fighting",
-        "classification": "Superpower Pokemon",
+        "classification": "Superpower Pokémon",
         "ability": "Guts: Increases Attack when affected by a status condition."
       },
       "basedStats": {
@@ -1270,15 +1270,15 @@
         "specialDef": "60",
         "speed": "45"
       },
-      "description": "Machoke is the evolved form of Machop. It is incredibly strong and often helps humans with heavy lifting.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891824-067machoke.png"
+      "description": "Machoke is the evolved form of Machop. It is even stronger and wears a belt to restrain its power.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png"
     },
     {
       "name": "Machamp",
       "vitals": {
         "pokedex": "68",
         "type": "Fighting",
-        "classification": "Superpower Pokemon",
+        "classification": "Superpower Pokémon",
         "ability": "Guts: Increases Attack when affected by a status condition."
       },
       "basedStats": {
@@ -1289,16 +1289,16 @@
         "specialDef": "85",
         "speed": "55"
       },
-      "description": "Machamp is the final evolution of Machop. It has four arms and can deliver powerful punches with incredible precision.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891825-068machamp.png"
+      "description": "Machamp is the final evolution of Machop. It has four arms and can deliver powerful punches.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png"
     },
     {
       "name": "Bellsprout",
       "vitals": {
         "pokedex": "69",
         "type": "Grass & Poison",
-        "classification": "Flower Pokemon",
-        "ability": "Chlorophyll: Boosts Speed in sunny weather."
+        "classification": "Flower Pokémon",
+        "ability": "Chlorophyll: Increases Speed during strong sunlight."
       },
       "basedStats": {
         "hp": "50",
@@ -1308,16 +1308,16 @@
         "specialDef": "30",
         "speed": "40"
       },
-      "description": "Bellsprout is a small, plant-like Pokémon. It uses its roots to absorb nutrients and can spit acid to defend itself.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891826-069bellsprout.png"
+      "description": "Bellsprout is a small, plant-like Pokémon with a vine-like body. It uses its roots to absorb nutrients from the soil.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png"
     },
     {
       "name": "Weepinbell",
       "vitals": {
         "pokedex": "70",
         "type": "Grass & Poison",
-        "classification": "Flycatcher Pokemon",
-        "ability": "Chlorophyll: Boosts Speed in sunny weather."
+        "classification": "Flycatcher Pokémon",
+        "ability": "Chlorophyll: Increases Speed during strong sunlight."
       },
       "basedStats": {
         "hp": "65",
@@ -1327,16 +1327,16 @@
         "specialDef": "45",
         "speed": "55"
       },
-      "description": "Weepinbell is the evolved form of Bellsprout. It has a large mouth and uses its vine-like appendages to ensnare prey.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891827-070weepinbell.png"
+      "description": "Weepinbell is the evolved form of Bellsprout. It has a large mouth and uses its vines to capture prey.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png"
     },
     {
       "name": "Victreebel",
       "vitals": {
         "pokedex": "71",
         "type": "Grass & Poison",
-        "classification": "Flycatcher Pokemon",
-        "ability": "Chlorophyll: Boosts Speed in sunny weather."
+        "classification": "Flycatcher Pokémon",
+        "ability": "Chlorophyll: Increases Speed during strong sunlight."
       },
       "basedStats": {
         "hp": "80",
@@ -1346,16 +1346,16 @@
         "specialDef": "70",
         "speed": "70"
       },
-      "description": "Victreebel is the final evolution of Bellsprout. It lures prey with its sweet scent and then dissolves them in its digestive fluids.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891828-071victreebel.png"
+      "description": "Victreebel is the final evolution of Bellsprout. It is a large, carnivorous Pokémon that lures prey with its sweet scent.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png"
     },
     {
       "name": "Tentacool",
       "vitals": {
         "pokedex": "72",
         "type": "Water & Poison",
-        "classification": "Jellyfish Pokemon",
-        "ability": "Clear Body: Prevents stat reduction."
+        "classification": "Jellyfish Pokémon",
+        "ability": "Clear Body: Prevents the Pokémon's stats from being lowered."
       },
       "basedStats": {
         "hp": "40",
@@ -1365,16 +1365,16 @@
         "specialDef": "100",
         "speed": "70"
       },
-      "description": "Tentacool is a jellyfish-like Pokémon. It drifts in the ocean and can paralyze foes with its stinging tentacles.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891829-072tentacool.png"
+      "description": "Tentacool is a small, jellyfish-like Pokémon that floats in the ocean. It has stinging tentacles for defense.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png"
     },
     {
       "name": "Tentacruel",
       "vitals": {
         "pokedex": "73",
         "type": "Water & Poison",
-        "classification": "Jellyfish Pokemon",
-        "ability": "Clear Body: Prevents stat reduction."
+        "classification": "Jellyfish Pokémon",
+        "ability": "Clear Body: Prevents the Pokémon's stats from being lowered."
       },
       "basedStats": {
         "hp": "80",
@@ -1384,16 +1384,16 @@
         "specialDef": "120",
         "speed": "100"
       },
-      "description": "Tentacruel is the evolved form of Tentacool. It has 80 tentacles that it uses to ensnare and poison its prey.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891830-073tentacruel.png"
+      "description": "Tentacruel is the evolved form of Tentacool. It is larger and has more powerful stinging tentacles.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png"
     },
     {
       "name": "Geodude",
       "vitals": {
         "pokedex": "74",
         "type": "Rock & Ground",
-        "classification": "Rock Pokemon",
-        "ability": "Rock Head: Prevents recoil damage."
+        "classification": "Rock Pokémon",
+        "ability": "Rock Head: Prevents recoil damage from moves."
       },
       "basedStats": {
         "hp": "40",
@@ -1403,16 +1403,16 @@
         "specialDef": "30",
         "speed": "20"
       },
-      "description": "Geodude is a small, rock-like Pokémon. It is often found in mountainous areas and can roll downhill at high speeds.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891831-074geodude.png"
+      "description": "Geodude is a small, rock-like Pokémon that is often found in mountainous areas. It has sturdy arms for throwing rocks.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png"
     },
     {
       "name": "Graveler",
       "vitals": {
         "pokedex": "75",
         "type": "Rock & Ground",
-        "classification": "Rock Pokemon",
-        "ability": "Rock Head: Prevents recoil damage."
+        "classification": "Rock Pokémon",
+        "ability": "Rock Head: Prevents recoil damage from moves."
       },
       "basedStats": {
         "hp": "55",
@@ -1422,16 +1422,16 @@
         "specialDef": "45",
         "speed": "35"
       },
-      "description": "Graveler is the evolved form of Geodude. It rolls down mountains to crush anything in its path and can explode when threatened.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891832-075graveler.png"
+      "description": "Graveler is the evolved form of Geodude. It is larger and has more powerful rock-throwing abilities.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png"
     },
     {
       "name": "Golem",
       "vitals": {
         "pokedex": "76",
         "type": "Rock & Ground",
-        "classification": "Megaton Pokemon",
-        "ability": "Rock Head: Prevents recoil damage."
+        "classification": "Megaton Pokémon",
+        "ability": "Rock Head: Prevents recoil damage from moves."
       },
       "basedStats": {
         "hp": "80",
@@ -1441,16 +1441,16 @@
         "specialDef": "65",
         "speed": "45"
       },
-      "description": "Golem is the final evolution of Geodude. It has a hard, boulder-like body and can withstand powerful attacks.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891833-076golem.png"
+      "description": "Golem is the final evolution of Geodude. It is a massive, rock-like Pokémon with incredible strength.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png"
     },
     {
       "name": "Ponyta",
       "vitals": {
         "pokedex": "77",
         "type": "Fire",
-        "classification": "Fire Horse Pokemon",
-        "ability": "Run Away: Enables the Pokémon to flee from wild battles."
+        "classification": "Fire Horse Pokémon",
+        "ability": "Run Away: Enables a sure getaway from wild Pokémon."
       },
       "basedStats": {
         "hp": "50",
@@ -1460,16 +1460,16 @@
         "specialDef": "65",
         "speed": "90"
       },
-      "description": "Ponyta is a horse-like Pokémon. Its mane and tail are made of fire, and it can jump incredibly high.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891834-077ponyta.png"
+      "description": "Ponyta is a small, horse-like Pokémon with a fiery mane. It is known for its incredible speed.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png"
     },
     {
       "name": "Rapidash",
       "vitals": {
         "pokedex": "78",
         "type": "Fire",
-        "classification": "Fire Horse Pokemon",
-        "ability": "Run Away: Enables the Pokémon to flee from wild battles."
+        "classification": "Fire Horse Pokémon",
+        "ability": "Run Away: Enables a sure getaway from wild Pokémon."
       },
       "basedStats": {
         "hp": "65",
@@ -1479,16 +1479,16 @@
         "specialDef": "80",
         "speed": "105"
       },
-      "description": "Rapidash is the evolved form of Ponyta. It is incredibly fast and can reach speeds of up to 150 mph.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891835-078rapidash.png"
+      "description": "Rapidash is the evolved form of Ponyta. It is a majestic, fiery horse Pokémon that can reach incredible speeds.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png"
     },
     {
       "name": "Slowpoke",
       "vitals": {
         "pokedex": "79",
         "type": "Water & Psychic",
-        "classification": "Dopey Pokemon",
-        "ability": "Oblivious: Prevents infatuation."
+        "classification": "Dopey Pokémon",
+        "ability": "Oblivious: Prevents the Pokémon from being infatuated."
       },
       "basedStats": {
         "hp": "90",
@@ -1498,16 +1498,16 @@
         "specialDef": "40",
         "speed": "15"
       },
-      "description": "Slowpoke is a slow-moving Pokémon. It is often found near water and is known for its vacant expression.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891836-079slowpoke.png"
+      "description": "Slowpoke is a slow-moving, dopey Pokémon that lives near water. It is often seen staring blankly into space.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png"
     },
     {
       "name": "Slowbro",
       "vitals": {
         "pokedex": "80",
         "type": "Water & Psychic",
-        "classification": "Hermit Crab Pokemon",
-        "ability": "Oblivious: Prevents infatuation."
+        "classification": "Hermit Crab Pokémon",
+        "ability": "Oblivious: Prevents the Pokémon from being infatuated."
       },
       "basedStats": {
         "hp": "95",
@@ -1517,15 +1517,15 @@
         "specialDef": "80",
         "speed": "30"
       },
-      "description": "Slowbro is the evolved form of Slowpoke. A Shellder has latched onto its tail, giving it psychic powers.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891837-080slowbro.png"
+      "description": "Slowbro is the evolved form of Slowpoke. It has a Shellder attached to its tail, which enhances its psychic powers.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png"
     },
     {
       "name": "Magnemite",
       "vitals": {
         "pokedex": "81",
         "type": "Electric & Steel",
-        "classification": "Magnet Pokemon",
+        "classification": "Magnet Pokémon",
         "ability": "Magnet Pull: Prevents Steel-type Pokémon from escaping."
       },
       "basedStats": {
@@ -1536,15 +1536,15 @@
         "specialDef": "55",
         "speed": "45"
       },
-      "description": "Magnemite is a small, magnet-like Pokémon. It floats in the air and uses electromagnetic waves to communicate.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891838-081magnemite.png"
+      "description": "Magnemite is a small, magnet-like Pokémon that floats in the air. It is attracted to electrical currents.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png"
     },
     {
       "name": "Magneton",
       "vitals": {
         "pokedex": "82",
         "type": "Electric & Steel",
-        "classification": "Magnet Pokemon",
+        "classification": "Magnet Pokémon",
         "ability": "Magnet Pull: Prevents Steel-type Pokémon from escaping."
       },
       "basedStats": {
@@ -1555,15 +1555,15 @@
         "specialDef": "70",
         "speed": "70"
       },
-      "description": "Magneton is the evolved form of Magnemite. It consists of three Magnemite linked together, creating a powerful magnetic field.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891839-082magneton.png"
+      "description": "Magneton is the evolved form of Magnemite. It consists of three Magnemite linked together, increasing its power.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png"
     },
     {
       "name": "Farfetch'd",
       "vitals": {
         "pokedex": "83",
         "type": "Normal & Flying",
-        "classification": "Wild Duck Pokemon",
+        "classification": "Wild Duck Pokémon",
         "ability": "Keen Eye: Prevents the Pokémon from losing accuracy."
       },
       "basedStats": {
@@ -1574,16 +1574,16 @@
         "specialDef": "62",
         "speed": "60"
       },
-      "description": "Farfetch'd is a duck-like Pokémon. It carries a leek stalk, which it uses as a weapon and a cooking ingredient.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891840-083farfetchd.png"
+      "description": "Farfetch'd is a duck-like Pokémon that carries a leek. It is known for its unique fighting style.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png"
     },
     {
       "name": "Doduo",
       "vitals": {
         "pokedex": "84",
         "type": "Normal & Flying",
-        "classification": "Twin Bird Pokemon",
-        "ability": "Run Away: Enables the Pokémon to flee from wild battles."
+        "classification": "Twin Bird Pokémon",
+        "ability": "Run Away: Enables a sure getaway from wild Pokémon."
       },
       "basedStats": {
         "hp": "35",
@@ -1593,16 +1593,16 @@
         "specialDef": "35",
         "speed": "75"
       },
-      "description": "Doduo is a two-headed bird Pokémon. It can run at high speeds and uses its two heads to stay alert.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891841-084doduo.png"
+      "description": "Doduo is a small, bird-like Pokémon with two heads. It is known for its incredible speed.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png"
     },
     {
       "name": "Dodrio",
       "vitals": {
         "pokedex": "85",
         "type": "Normal & Flying",
-        "classification": "Triple Bird Pokemon",
-        "ability": "Run Away: Enables the Pokémon to flee from wild battles."
+        "classification": "Triple Bird Pokémon",
+        "ability": "Run Away: Enables a sure getaway from wild Pokémon."
       },
       "basedStats": {
         "hp": "60",
@@ -1612,16 +1612,16 @@
         "specialDef": "60",
         "speed": "110"
       },
-      "description": "Dodrio is the evolved form of Doduo. It has three heads and can run at incredible speeds across open plains.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891842-085dodrio.png"
+      "description": "Dodrio is the evolved form of Doduo. It has three heads and is even faster and more aggressive.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png"
     },
     {
       "name": "Seel",
       "vitals": {
         "pokedex": "86",
         "type": "Water",
-        "classification": "Sea Lion Pokemon",
-        "ability": "Thick Fat: Reduces damage from Fire and Ice moves."
+        "classification": "Sea Lion Pokémon",
+        "ability": "Thick Fat: Reduces damage from Fire and Ice-type moves."
       },
       "basedStats": {
         "hp": "65",
@@ -1631,16 +1631,16 @@
         "specialDef": "70",
         "speed": "45"
       },
-      "description": "Seel is a sea lion-like Pokémon. It thrives in cold environments and uses its horn to break through ice.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891843-086seel.png"
+      "description": "Seel is a small, seal-like Pokémon that lives in cold waters. It is known for its playful nature.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png"
     },
     {
       "name": "Dewgong",
       "vitals": {
         "pokedex": "87",
         "type": "Water & Ice",
-        "classification": "Sea Lion Pokemon",
-        "ability": "Thick Fat: Reduces damage from Fire and Ice moves."
+        "classification": "Sea Lion Pokémon",
+        "ability": "Thick Fat: Reduces damage from Fire and Ice-type moves."
       },
       "basedStats": {
         "hp": "90",
@@ -1650,15 +1650,15 @@
         "specialDef": "95",
         "speed": "70"
       },
-      "description": "Dewgong is the evolved form of Seel. It is a graceful swimmer and can withstand freezing temperatures.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891844-087dewgong.png"
+      "description": "Dewgong is the evolved form of Seel. It is a larger, more powerful Pokémon that thrives in icy waters.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png"
     },
     {
       "name": "Grimer",
       "vitals": {
         "pokedex": "88",
         "type": "Poison",
-        "classification": "Sludge Pokemon",
+        "classification": "Sludge Pokémon",
         "ability": "Stench: May cause the opponent to flinch."
       },
       "basedStats": {
@@ -1669,15 +1669,15 @@
         "specialDef": "50",
         "speed": "25"
       },
-      "description": "Grimer is a sludge-like Pokémon. It thrives in polluted areas and leaves a trail of toxic waste wherever it goes.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891845-088grimer.png"
+      "description": "Grimer is a small, sludge-like Pokémon that thrives in polluted areas. It is known for its toxic nature.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png"
     },
     {
       "name": "Muk",
       "vitals": {
         "pokedex": "89",
         "type": "Poison",
-        "classification": "Sludge Pokemon",
+        "classification": "Sludge Pokémon",
         "ability": "Stench: May cause the opponent to flinch."
       },
       "basedStats": {
@@ -1688,15 +1688,15 @@
         "specialDef": "100",
         "speed": "50"
       },
-      "description": "Muk is the evolved form of Grimer. It is even more toxic and can cause severe illness with a single touch.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891846-089muk.png"
+      "description": "Muk is the evolved form of Grimer. It is a larger, more toxic Pokémon that leaves a trail of sludge wherever it goes.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png"
     },
     {
       "name": "Shellder",
       "vitals": {
         "pokedex": "90",
         "type": "Water",
-        "classification": "Bivalve Pokemon",
+        "classification": "Bivalve Pokémon",
         "ability": "Shell Armor: Prevents critical hits."
       },
       "basedStats": {
@@ -1707,15 +1707,15 @@
         "specialDef": "25",
         "speed": "40"
       },
-      "description": "Shellder is a bivalve-like Pokémon. It uses its hard shell to protect itself and can clamp down with great force.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891847-090shellder.png"
+      "description": "Shellder is a small, clam-like Pokémon with a hard shell. It uses its tongue to capture prey.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png"
     },
     {
       "name": "Cloyster",
       "vitals": {
         "pokedex": "91",
         "type": "Water & Ice",
-        "classification": "Bivalve Pokemon",
+        "classification": "Bivalve Pokémon",
         "ability": "Shell Armor: Prevents critical hits."
       },
       "basedStats": {
@@ -1726,179 +1726,8 @@
         "specialDef": "45",
         "speed": "70"
       },
-      "description": "Cloyster is the evolved form of Shellder. Its shell is incredibly hard, and it can fire spikes at its enemies.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891848-091cloyster.png"
-    },
-    {
-      "name": "Gastly",
-      "vitals": {
-        "pokedex": "92",
-        "type": "Ghost & Poison",
-        "classification": "Gas Pokemon",
-        "ability": "Levitate: Grants immunity to Ground-type moves."
-      },
-      "basedStats": {
-        "hp": "30",
-        "attack": "35",
-        "defense": "30",
-        "specialAtk": "100",
-        "specialDef": "35",
-        "speed": "80"
-      },
-      "description": "Gastly is a ghost-like Pokémon. It is made of toxic gas and can suffocate opponents by enveloping them.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891849-092gastly.png"
-    },
-    {
-      "name": "Haunter",
-      "vitals": {
-        "pokedex": "93",
-        "type": "Ghost & Poison",
-        "classification": "Gas Pokemon",
-        "ability": "Levitate: Grants immunity to Ground-type moves."
-      },
-      "basedStats": {
-        "hp": "45",
-        "attack": "50",
-        "defense": "45",
-        "specialAtk": "115",
-        "specialDef": "55",
-        "speed": "95"
-      },
-      "description": "Haunter is the evolved form of Gastly. It lurks in the shadows and can lick its prey to steal their life force.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891850-093haunter.png"
-    },
-    {
-      "name": "Gengar",
-      "vitals": {
-        "pokedex": "94",
-        "type": "Ghost & Poison",
-        "classification": "Shadow Pokemon",
-        "ability": "Levitate: Grants immunity to Ground-type moves."
-      },
-      "basedStats": {
-        "hp": "60",
-        "attack": "65",
-        "defense": "60",
-        "specialAtk": "130",
-        "specialDef": "75",
-        "speed": "110"
-      },
-      "description": "Gengar is the final evolution of Gastly. It is a mischievous Pokémon that enjoys playing pranks on humans.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891851-094gengar.png"
-    },
-    {
-      "name": "Onix",
-      "vitals": {
-        "pokedex": "95",
-        "type": "Rock & Ground",
-        "classification": "Rock Snake Pokemon",
-        "ability": "Rock Head: Prevents recoil damage."
-      },
-      "basedStats": {
-        "hp": "35",
-        "attack": "45",
-        "defense": "160",
-        "specialAtk": "30",
-        "specialDef": "45",
-        "speed": "70"
-      },
-      "description": "Onix is a massive, snake-like Pokémon. It burrows through the ground at high speeds and can cause earthquakes.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891852-095onix.png"
-    },
-    {
-      "name": "Drowzee",
-      "vitals": {
-        "pokedex": "96",
-        "type": "Psychic",
-        "classification": "Hypnosis Pokemon",
-        "ability": "Insomnia: Prevents sleep."
-      },
-      "basedStats": {
-        "hp": "60",
-        "attack": "48",
-        "defense": "45",
-        "specialAtk": "43",
-        "specialDef": "90",
-        "speed": "42"
-      },
-      "description": "Drowzee is a tapir-like Pokémon. It feeds on the dreams of humans and Pokémon, often causing nightmares.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891853-096drowzee.png"
-    },
-    {
-      "name": "Hypno",
-      "vitals": {
-        "pokedex": "97",
-        "type": "Psychic",
-        "classification": "Hypnosis Pokemon",
-        "ability": "Insomnia: Prevents sleep."
-      },
-      "basedStats": {
-        "hp": "85",
-        "attack": "73",
-        "defense": "70",
-        "specialAtk": "73",
-        "specialDef": "115",
-        "speed": "67"
-      },
-      "description": "Hypno is the evolved form of Drowzee. It uses a pendulum to hypnotize its prey and control their actions.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891854-097hypno.png"
-    },
-    {
-      "name": "Krabby",
-      "vitals": {
-        "pokedex": "98",
-        "type": "Water",
-        "classification": "River Crab Pokemon",
-        "ability": "Hyper Cutter: Prevents Attack reduction."
-      },
-      "basedStats": {
-        "hp": "30",
-        "attack": "105",
-        "defense": "90",
-        "specialAtk": "25",
-        "specialDef": "25",
-        "speed": "50"
-      },
-      "description": "Krabby is a crab-like Pokémon. It lives near beaches and uses its large pincers to defend itself.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891855-098krabby.png"
-    },
-    {
-      "name": "Kingler",
-      "vitals": {
-        "pokedex": "99",
-        "type": "Water",
-        "classification": "Pincer Pokemon",
-        "ability": "Hyper Cutter: Prevents Attack reduction."
-      },
-      "basedStats": {
-        "hp": "55",
-        "attack": "130",
-        "defense": "115",
-        "specialAtk": "50",
-        "specialDef": "50",
-        "speed": "75"
-      },
-      "description": "Kingler is the evolved form of Krabby. Its large pincer is incredibly strong and can crush boulders with ease.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891856-099kingler.png"
-    },
-    {
-      "name": "Voltorb",
-      "vitals": {
-        "pokedex": "100",
-        "type": "Electric",
-        "classification": "Ball Pokemon",
-        "ability": "Soundproof: Grants immunity to sound-based moves."
-      },
-      "basedStats": {
-        "hp": "40",
-        "attack": "30",
-        "defense": "50",
-        "specialAtk": "55",
-        "specialDef": "55",
-        "speed": "100"
-      },
-      "description": "Voltorb is a ball-like Pokémon. It is often mistaken for a Poké Ball and can explode when agitated.",
-      "CharacterImage": "https://www.giantbomb.com/a/uploads/scale_small/13/135472/1891857-100voltorb.png"
+      "description": "Cloyster is the evolved form of Shellder. It has a spiky shell and can shoot spikes at its enemies.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png"
     }
   ]
 }
