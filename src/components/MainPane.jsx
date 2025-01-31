@@ -1,10 +1,10 @@
 import Profile from './Profile'
 
-const MainPane = (props) => {
+const MainPane = ({ pokemon, onSelect }) => {
   return (
     <div className="pokemonGrid">
-      {props.pokemon.map((profile) => (
-        <div key={profile.id}>
+      {pokemon.map((profile) => (
+        <div key={profile.id} onClick={() => onSelect(profile)}>
           <Profile
             CharacterImage={profile.CharacterImage}
             name={profile.name}
