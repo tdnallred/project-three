@@ -2603,6 +2603,234 @@
       },
       "description": "Porygon is a digital Pokémon created by humans. It is known for its ability to travel through cyberspace.",
       "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png"
+    },
+    {
+      "name": "Omastar",
+      "vitals": {
+        "pokedex": "139",
+        "type": "Rock & Water",
+        "classification": "Spiral Pokémon",
+        "ability": "Swift Swim: Increases Speed during rain."
+      },
+      "basedStats": {
+        "hp": "70",
+        "attack": "60",
+        "defense": "125",
+        "specialAtk": "115",
+        "specialDef": "70",
+        "speed": "55"
+      },
+      "description": "Omastar is the evolved form of Omanyte. It is a larger, more powerful Pokémon with sharp tentacles.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png"
+    },
+    {
+      "name": "Kabuto",
+      "vitals": {
+        "pokedex": "140",
+        "type": "Rock & Water",
+        "classification": "Shellfish Pokémon",
+        "ability": "Swift Swim: Increases Speed during rain."
+      },
+      "basedStats": {
+        "hp": "30",
+        "attack": "80",
+        "defense": "90",
+        "specialAtk": "55",
+        "specialDef": "45",
+        "speed": "55"
+      },
+      "description": "Kabuto is a prehistoric Pokémon that lived in the ocean. It is known for its hard shell.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png"
+    },
+    {
+      "name": "Kabutops",
+      "vitals": {
+        "pokedex": "141",
+        "type": "Rock & Water",
+        "classification": "Shellfish Pokémon",
+        "ability": "Swift Swim: Increases Speed during rain."
+      },
+      "basedStats": {
+        "hp": "60",
+        "attack": "115",
+        "defense": "105",
+        "specialAtk": "65",
+        "specialDef": "70",
+        "speed": "80"
+      },
+      "description": "Kabutops is the evolved form of Kabuto. It is a larger, more powerful Pokémon with sharp scythes for arms.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png"
+    },
+    {
+      "name": "Aerodactyl",
+      "vitals": {
+        "pokedex": "142",
+        "type": "Rock & Flying",
+        "classification": "Fossil Pokémon",
+        "ability": "Rock Head: Prevents recoil damage from moves."
+      },
+      "basedStats": {
+        "hp": "80",
+        "attack": "105",
+        "defense": "65",
+        "specialAtk": "60",
+        "specialDef": "75",
+        "speed": "130"
+      },
+      "description": "Aerodactyl is a prehistoric Pokémon that resembles a pterosaur. It is known for its speed and sharp fangs.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png"
+    },
+    {
+      "name": "Snorlax",
+      "vitals": {
+        "pokedex": "143",
+        "type": "Normal",
+        "classification": "Sleeping Pokémon",
+        "ability": "Immunity: Prevents the Pokémon from being poisoned."
+      },
+      "basedStats": {
+        "hp": "160",
+        "attack": "110",
+        "defense": "65",
+        "specialAtk": "65",
+        "specialDef": "110",
+        "speed": "30"
+      },
+      "description": "Snorlax is a large, sleepy Pokémon that spends most of its time eating and sleeping. It is known for its immense strength.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png"
+    },
+    {
+      "name": "Articuno",
+      "vitals": {
+        "pokedex": "144",
+        "type": "Ice & Flying",
+        "classification": "Freeze Pokémon",
+        "ability": "Pressure: Increases the opponent's PP usage."
+      },
+      "basedStats": {
+        "hp": "90",
+        "attack": "85",
+        "defense": "100",
+        "specialAtk": "95",
+        "specialDef": "125",
+        "speed": "85"
+      },
+      "description": "Articuno is a legendary bird Pokémon that controls ice. It is known for its graceful flight and icy breath.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png"
+    },
+    {
+      "name": "Zapdos",
+      "vitals": {
+        "pokedex": "145",
+        "type": "Electric & Flying",
+        "classification": "Electric Pokémon",
+        "ability": "Pressure: Increases the opponent's PP usage."
+      },
+      "basedStats": {
+        "hp": "90",
+        "attack": "90",
+        "defense": "85",
+        "specialAtk": "125",
+        "specialDef": "90",
+        "speed": "100"
+      },
+      "description": "Zapdos is a legendary bird Pokémon that controls electricity. It is known for its lightning-fast movements.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png"
+    },
+    {
+      "name": "Moltres",
+      "vitals": {
+        "pokedex": "146",
+        "type": "Fire & Flying",
+        "classification": "Flame Pokémon",
+        "ability": "Pressure: Increases the opponent's PP usage."
+      },
+      "basedStats": {
+        "hp": "90",
+        "attack": "100",
+        "defense": "90",
+        "specialAtk": "125",
+        "specialDef": "85",
+        "speed": "90"
+      },
+      "description": "Moltres is a legendary bird Pokémon that controls fire. It is known for its fiery wings and scorching heat.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png"
+    },
+    {
+      "name": "Dratini",
+      "vitals": {
+        "pokedex": "147",
+        "type": "Dragon",
+        "classification": "Dragon Pokémon",
+        "ability": "Shed Skin: May heal the Pokémon's status conditions."
+      },
+      "basedStats": {
+        "hp": "41",
+        "attack": "64",
+        "defense": "45",
+        "specialAtk": "50",
+        "specialDef": "50",
+        "speed": "50"
+      },
+      "description": "Dratini is a small, dragon-like Pokémon that lives near water. It is known for its ability to shed its skin.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png"
+    },
+    {
+      "name": "Dragonair",
+      "vitals": {
+        "pokedex": "148",
+        "type": "Dragon",
+        "classification": "Dragon Pokémon",
+        "ability": "Shed Skin: May heal the Pokémon's status conditions."
+      },
+      "basedStats": {
+        "hp": "61",
+        "attack": "84",
+        "defense": "65",
+        "specialAtk": "70",
+        "specialDef": "70",
+        "speed": "70"
+      },
+      "description": "Dragonair is the evolved form of Dratini. It is a larger, more powerful Pokémon with a mystical aura.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png"
+    },
+    {
+      "name": "Dragonite",
+      "vitals": {
+        "pokedex": "149",
+        "type": "Dragon & Flying",
+        "classification": "Dragon Pokémon",
+        "ability": "Inner Focus: Prevents the Pokémon from flinching."
+      },
+      "basedStats": {
+        "hp": "91",
+        "attack": "134",
+        "defense": "95",
+        "specialAtk": "100",
+        "specialDef": "100",
+        "speed": "80"
+      },
+      "description": "Dragonite is the final evolution of Dratini. It is a powerful, dragon-like Pokémon that can fly at incredible speeds.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png"
+    },
+    {
+      "name": "Mewtwo",
+      "vitals": {
+        "pokedex": "150",
+        "type": "Psychic",
+        "classification": "Genetic Pokémon",
+        "ability": "Pressure: Increases the opponent's PP usage."
+      },
+      "basedStats": {
+        "hp": "106",
+        "attack": "110",
+        "defense": "90",
+        "specialAtk": "154",
+        "specialDef": "90",
+        "speed": "130"
+      },
+      "description": "Mewtwo is a legendary Pokémon created by scientists. It is known for its immense psychic powers and fierce nature.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png"
     }
   ]
 }

@@ -1,4 +1,5 @@
 import Profile from './Profile'
+import Vitals from './Vitals'
 import BaseStats from './BaseStats'
 
 const Selection = (props) => {
@@ -11,26 +12,23 @@ const Selection = (props) => {
             name={profile.name}
             id={profile.id}
           />
-          <BaseStats
+          <Vitals
             pokedex={profile.vitals.pokedex}
             type={profile.vitals.type}
             classification={profile.vitals.classification}
             ability={profile.vitals.ability}
             id={profile.id}
           />
+          <BaseStats
+            hp={profile.basedStats.hp}
+            attack={profile.basedStats.attack}
+            defense={profile.basedStats.defense}
+            specialAtk={profile.basedStats.specialAtk}
+            specialDef={profile.basedStats.specialDef}
+            speed={profile.basedStats.speed}
+          />
         </div>
       ))}
-
-      {/* {props.pokemon.map((baseStats) => (
-        <BaseStats
-          key={baseStats.id}
-          pokedex={baseStats.vitals.pokedex}
-          type={baseStats.vitals.type}
-          classification={baseStats.vitals.classification}
-          ability={baseStats.vitals.ability}
-          id={baseStats.id}
-        />
-      ))} */}
     </div>
   )
 }
