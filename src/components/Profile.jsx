@@ -1,6 +1,6 @@
 const Profile = (props) => {
   return (
-    <div id={profile}>
+    <div>
       <img src={props.CharacterImage} alt="" />
       <h2>{props.name}</h2>
     </div>

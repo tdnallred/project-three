@@ -2,4 +2,4 @@ const Description = (props) => {
   return <p>{props.description}</p>
 }
 
-export default description
+export default Description
