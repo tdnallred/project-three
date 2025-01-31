@@ -1,6 +1,6 @@
 const Vitals = (props) => {
   return (
-    <div id={props.id}>
+    <div id={vitals}>
       <h3>Vitals</h3>
       <ul>
         <li>Pokedex #: {props.pokedex}</li>

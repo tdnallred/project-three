@@ -2831,6 +2831,25 @@
       },
       "description": "Mewtwo is a legendary Pokémon created by scientists. It is known for its immense psychic powers and fierce nature.",
       "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png"
+    },
+    {
+      "name": "Mew",
+      "vitals": {
+        "pokedex": "151",
+        "type": "Psychic",
+        "classification": "New Species Pokémon",
+        "ability": "Synchronize: Passes on status conditions to the opponent."
+      },
+      "basedStats": {
+        "hp": "100",
+        "attack": "100",
+        "defense": "100",
+        "specialAtk": "100",
+        "specialDef": "100",
+        "speed": "100"
+      },
+      "description": "Mew is a mythical Pokémon said to contain the genetic code of all Pokémon. It is known for its playful nature and immense psychic powers.",
+      "CharacterImage": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png"
     }
   ]
 }
