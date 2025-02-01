@@ -1,14 +1,28 @@
 body {
   box-sizing: border-box;
   background-color: white;
+  margin: 0 8em 0 8em;
+  padding: 16px 0 16px 0;
+  max-width: 100%;
+  max-height: 100vh;
+  height: 100vh;
+  overflow-y: hidden;
+}
+
+.app {
+  width: 100vw;
+  max-width: 100%;
+  margin: 0 auto;
+  max-height: 100vh;
 }
 
 .top {
-  width: 90vw;
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
   margin: 30px 0 30px 0;
+  height: 10vh;
 }
 
 .pokemonHeader {
@@ -21,18 +35,22 @@ body {
 .body {
   display: flex;
   width: 100vw;
+  max-width: 100%;
 }
-
+.main {
+  margin-left: 16px;
+}
 img.character {
   height: 60px;
   width: 60px;
 }
-
 .pokemonGrid {
-  width: 50vw;
-  height: 80vh;
+  width: 40vw;
+  max-width: 50vw;
+  height: auto;
+  max-height: 80vh;
   display: grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   overflow-y: auto;
   background-color: rgb(205, 205, 205);
   border-radius: 6px;
@@ -40,10 +58,6 @@ img.character {
 }
 .pokemonGrid::-webkit-scrollbar {
   display: none;
-}
-
-.pokemon-details {
-  width: 50vw;
 }
 
 .pokeNum,
@@ -61,6 +75,61 @@ img.character {
   flex-direction: column;
   align-items: center;
   background-color: white;
+}
+
+/* detail pane */
+
+.sidePane {
+  height: 100%;
+}
+
+.pokemon-details {
+  width: 100%;
+  margin-left: 16px;
+  height: 80vh;
+  display: flex;
+  border: 10px solid black;
+  box-sizing: border-box;
+
+  background-color: grey;
+  border-radius: 6px;
+  padding: 32px;
+}
+.sidePane {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.detProf,
+.detailsProfile {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.detCharacter {
+  width: auto;
+}
+
+.baseStatDet {
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+  gap: 16px;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.vitals {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  gap: 8px;
+  justify-content: flex-start;
 }
 
 /* other */

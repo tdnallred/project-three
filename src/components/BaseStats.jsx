@@ -1,8 +1,7 @@
 const BaseStats = (props) => {
   return (
     <div id={props.id}>
-      <h3>Base Stats</h3>
-      <ul>
+      <ul className="baseStatDet">
         <li>HP: {props.hp}</li>
         <li>ATK: {props.attack}</li>
         <li>DEF: {props.defense}</li>

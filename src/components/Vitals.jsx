@@ -1,8 +1,7 @@
 const Vitals = (props) => {
   return (
     <div>
-      <h3>Vitals</h3>
-      <ul>
+      <ul className="vitals">
         <li>Type: {props.type}</li>
         <li>Classification: {props.classification}</li>
         <li>Ability: {props.ability}</li>

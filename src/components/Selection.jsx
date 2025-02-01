@@ -6,27 +6,31 @@ import DetailsProfile from './DetailsProfile'
 
 const Selection = ({ selectedPokemon }) => {
   return (
-    <div>
+    <div className="sidePane">
       {/* Render selected Pokémon details */}
-      <DetailsProfile
-        CharacterImage={selectedPokemon.CharacterImage}
-        name={selectedPokemon.name}
-        pokedex={selectedPokemon.vitals.pokedex}
-      />
-      <Description description={selectedPokemon.description} />
-      <Vitals
-        type={selectedPokemon.vitals.type}
-        classification={selectedPokemon.vitals.classification}
-        ability={selectedPokemon.vitals.ability}
-      />
-      <BaseStats
-        hp={selectedPokemon.basedStats.hp}
-        attack={selectedPokemon.basedStats.attack}
-        defense={selectedPokemon.basedStats.defense}
-        specialAtk={selectedPokemon.basedStats.specialAtk}
-        specialDef={selectedPokemon.basedStats.specialDef}
-        speed={selectedPokemon.basedStats.speed}
-      />
+      <div className="detProf">
+        <DetailsProfile CharacterImage={selectedPokemon.CharacterImage} />
+      </div>
+      <div className="details">
+        <Description
+          name={selectedPokemon.name}
+          pokedex={selectedPokemon.vitals.pokedex}
+          description={selectedPokemon.description}
+        />
+        <Vitals
+          type={selectedPokemon.vitals.type}
+          classification={selectedPokemon.vitals.classification}
+          ability={selectedPokemon.vitals.ability}
+        />
+        <BaseStats
+          hp={selectedPokemon.basedStats.hp}
+          attack={selectedPokemon.basedStats.attack}
+          defense={selectedPokemon.basedStats.defense}
+          specialAtk={selectedPokemon.basedStats.specialAtk}
+          specialDef={selectedPokemon.basedStats.specialDef}
+          speed={selectedPokemon.basedStats.speed}
+        />
+      </div>
     </div>
   )
 }
