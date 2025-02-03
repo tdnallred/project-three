@@ -73,6 +73,24 @@ img.character {
   margin: 0;
 }
 
+.pokeName {
+  color: #f9c931;
+  padding: 10px 25px;
+  -webkit-text-stroke: 10px #355d9f;
+  border-radius: 1000px;
+  font-size: 32px;
+  paint-order: stroke fill;
+}
+
+.pokeNum {
+  color: #f9c931;
+  padding: 10px 25px;
+  -webkit-text-stroke: 10px #355d9f;
+  border-radius: 1000px;
+  font-size: 32px;
+  paint-order: stroke fill;
+}
+
 .profile {
   margin: 8px;
   padding: 8px;
