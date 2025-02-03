@@ -1,6 +1,6 @@
 import Profile from './Profile'
 
-const MainPane = ({ pokemon, onSelect }) => {
+const MainPane = ({ pokemon, onSelect, selectedPokemon }) => {
   return (
     <div className="pokemonGrid">
       {pokemon.map((profile) => (

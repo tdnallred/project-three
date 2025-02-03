@@ -7,10 +7,8 @@ import React, { useState } from 'react'
 const pokemonArray = pokemon.results
 
 const App = () => {
-  // State to track the selected Pokemon
   const [selectedPokemon, setSelectedPokemon] = useState(null)
 
-  // Handle click event to select a Pokémon
   const handlePokemonSelect = (pokemon) => {
     setSelectedPokemon(pokemon)
   }
@@ -22,14 +20,16 @@ const App = () => {
       </div>
       <div className="body">
         <div className="main">
-          <MainPane pokemon={pokemonArray} onSelect={handlePokemonSelect} />
+          <MainPane
+            pokemon={pokemonArray}
+            onSelect={handlePokemonSelect}
+            // selectedPokemon={selectedPokemon} // Pass selectedPokemon to MainPane
+          />
         </div>
 
         {selectedPokemon && (
           <div className="pokemon-details">
             <Selection selectedPokemon={selectedPokemon} />
-
-            {/* Show more details of the selected Pokémon */}
           </div>
         )}
       </div>
