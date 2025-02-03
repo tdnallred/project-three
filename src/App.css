@@ -1,7 +1,7 @@
 body {
   box-sizing: border-box;
   background-color: white;
-  margin: 0 8em 0 8em;
+  margin: 0 10em 0 10em;
   padding: 16px 0 16px 0;
   max-width: 100%;
   max-height: 100vh;
@@ -21,12 +21,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 30px 0 30px 0;
-  height: 10vh;
+  margin: 60px 0 60px 0;
+  height: 1vh;
 }
 
 .pokemonHeader {
-  width: 15vw;
+  width: 8vw;
   height: auto;
 }
 
@@ -88,10 +88,11 @@ img.character {
   margin-left: 16px;
   height: 80vh;
   display: flex;
-  border: 10px solid black;
+  border: 10px solid rgb(126, 39, 198);
   box-sizing: border-box;
-
-  background-color: grey;
+  background-image: url('https://plus.unsplash.com/premium_photo-1664443577580-dd2674e9d359?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cHVycGxlJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D');
+  background-repeat: no-repeat;
+  background-size: cover;
   border-radius: 6px;
   padding: 32px;
 }
@@ -99,18 +100,39 @@ img.character {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  width: 100%;
 }
 
-.detProf,
+.detProf {
+  width: auto;
+}
+
 .detailsProfile {
-  width: 100%;
+  width: auto;
   height: auto;
   display: flex;
   justify-content: center;
+  background-color: white;
+  border-radius: 6px;
+  background-image: url('https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZxejRzdnVxdTd2b3p4cXFycG03b2xsZms5MG4wbmVsMXVhdGx4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHMBTzc1qJgFfDW/giphy.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 10px solid rgb(84, 2, 150);
+  filter: drop-shadow(0 0 0.5rem rgb(0, 0, 0));
+}
+
+h2.detName {
+  margin-bottom: 0;
+  font-size: 2em;
+}
+p.description {
+  margin-top: 8px;
+  font-size: 18px;
 }
 
 .detCharacter {
-  width: auto;
+  width: 25em;
+  filter: drop-shadow(0 0 0.75rem rgb(223, 96, 255));
 }
 
 .baseStatDet {
@@ -133,3 +155,62 @@ img.character {
 }
 
 /* other */
+.lato-thin {
+  font-family: 'Lato', serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.lato-light {
+  font-family: 'Lato', serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.lato-regular {
+  font-family: 'Lato', serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: 'Lato', serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lato-black {
+  font-family: 'Lato', serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.lato-thin-italic {
+  font-family: 'Lato', serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.lato-light-italic {
+  font-family: 'Lato', serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.lato-regular-italic {
+  font-family: 'Lato', serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.lato-bold-italic {
+  font-family: 'Lato', serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.lato-black-italic {
+  font-family: 'Lato', serif;
+  font-weight: 900;
+  font-style: italic;
+}
