@@ -16,15 +16,11 @@ const App = () => {
   return (
     <div className="App">
       <div className="top">
-        <img className="pokemonHeader" src="src/Assets/pokemon.png" alt="" />
+        <img className="pokemonHeader" src="src/Assets/fav.png" alt="" />
       </div>
       <div className="body">
         <div className="main">
-          <MainPane
-            pokemon={pokemonArray}
-            onSelect={handlePokemonSelect}
-            // selectedPokemon={selectedPokemon} // Pass selectedPokemon to MainPane
-          />
+          <MainPane pokemon={pokemonArray} onSelect={handlePokemonSelect} />
         </div>
 
         {selectedPokemon && (
