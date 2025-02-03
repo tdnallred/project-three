@@ -126,12 +126,12 @@ h2.detName {
   font-size: 2em;
 }
 p.description {
-  margin-top: 8px;
+  margin-top: 0px;
   font-size: 18px;
 }
 
 .detCharacter {
-  width: 25em;
+  width: 20em;
   filter: drop-shadow(0 0 0.75rem rgb(223, 96, 255));
 }
 
@@ -152,6 +152,39 @@ p.description {
   padding: 0;
   gap: 8px;
   justify-content: flex-start;
+}
+
+.top-vital {
+  display: flex;
+  gap: 48px;
+}
+
+.label {
+  font-size: 12px;
+}
+
+li {
+  display: flex;
+  flex-direction: column;
+}
+
+.Badge {
+  padding: 8px;
+  margin-right: 16px;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.stat {
+  background-color: rgb(116, 0, 151);
+  border-radius: 100px;
+  padding: 8px;
+  margin-top: 8px;
+  color: white;
+  font-size: 24px;
+  border: 2px solid white;
+  filter: drop-shadow(0 0 0.5rem rgb(255, 255, 255));
 }
 
 /* other */
